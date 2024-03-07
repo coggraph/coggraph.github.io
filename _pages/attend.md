@@ -7,7 +7,7 @@ permalink: /seminar/
 ---
 
 <div style="text-align: center;">
-<p><h3>There are two ways to attend:</h3></p>
+<p><h3>There are three ways to attend:</h3></p>
 </div>
 
 <br>
