@@ -38,41 +38,41 @@ permalink: /schedule/
                 </div>
                 <div class="cellims" style="width:45%;float:right;overflow:auto">
                     <h2>speakers</h2>
+                    <img src="../assets/img/speakers/tomerullman.jpg" height="175"
+                         style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                    <br>
                     <a href="http://www.tomerullman.org/" style="position:relative; display:block">Tomer Ullman <strong>(Moderator)</strong></a>
                     Harvard University
                     <br>
-                    <img src="../assets/img/speakers/tomerullman.jpg" height="175"
+                    <img src="../assets/img/speakers/ilkeryildirim.png" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="http://cncl.yale.edu/" style="position:relative; display:block">Ilker Yildirim <strong>(Speaker)</strong></a>
                     Yale University
                     <br>
-                    <img src="../assets/img/speakers/ilkeryildirim.png" height="175"
+                    <img src="../assets/img/speakers/wenzeljakob.jpg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="https://rgl.epfl.ch/people/wjakob" style="position:relative; display:block">Wenzel Jakob <strong>(Speaker)</strong></a>
                     EPFL
                     <br>
-                    <img src="../assets/img/speakers/wenzeljakob.jpg" height="175"
+                    <img src="../assets/img/speakers/vivianpaulun.jpg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="https://www.mit.edu/~vpaulun/" style="position:relative; display:block">Vivian Paulun <strong>(Speaker)</strong></a>
                     MIT
                     <br>
-                    <img src="../assets/img/speakers/vivianpaulun.jpg" height="175"
+                    <img src="../assets/img/speakers/zacharyferguson.png" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="https://zferg.us/" style="position:relative; display:block">Zachary Ferguson <strong>(Speaker)</strong></a>
                     MIT
                     <br>
-                    <img src="../assets/img/speakers/zacharyferguson.png" height="175"
+                    <img src="../assets/img/speakers/tzumao.jpg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="https://cseweb.ucsd.edu/~tzli/" style="position:relative; display:block">Tzu-Mao Li <strong>(Speaker)</strong></a>
                     UC San Diego
-                    <br>
-                    <img src="../assets/img/speakers/tzumao.jpg" height="175"
-                         style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
             </div>
         </div>
@@ -95,36 +95,32 @@ permalink: /schedule/
 
                 <div class="cellims" style="width:45%;float:right; position:relative;overflow:auto">
                     <h2>speakers</h2>
+                    <img src="../assets/img/speakers/danielritchie.jpg" height="175"
+                         style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                    <br>
                     <a href="https://dritchie.github.io/" style="position:relative; display:block">Daniel Ritchie <strong>(Speaker)</strong></a>
                     Brown University
                     <br>
-                    <img src="../assets/img/speakers/danielritchie.jpg" height="175"
+                    <img src="../assets/img/speakers/kelseyallen.jpg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="https://k-r-allen.github.io/" style="position:relative; display:block">Kelsey Allen <strong>(Speaker)</strong></a>
                     Google DeepMind
                     <br>
-                    <img src="../assets/img/speakers/kelseyallen.jpg" height="175"
+                    <img src="../assets/img/speakers/gilbertbernstein.jpeg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="http://www.gilbertbernstein.com/" style="position:relative; display:block">Gilbert Bernstein <strong>(Speaker)</strong></a>
                     University of Washington, Seattle
                     <br>
-                    <img src="../assets/img/speakers/gilbertbernstein.jpeg" height="175"
+                    <img src="../assets/img/speakers/felixbinder.png" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="https://ac.felixbinder.net/" style="position:relative; display:block">Felix Binder <strong>(Speaker)</strong></a>
                     UC San Diego
-                    <br>
-                    <img src="../assets/img/speakers/felixbinder.png" height="175"
-                         style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-                    <br>
                 </div>
-
                 <br>
                 <br>
-
-
             </div>
         </div>
 
