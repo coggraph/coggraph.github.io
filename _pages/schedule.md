@@ -41,37 +41,37 @@ permalink: /schedule/
                     <a href="http://www.tomerullman.org/" style="position:relative; display:block">Tomer Ullman <strong>(Moderator)</strong></a>
                     Harvard University
                     <br>
-                    <img src="assets/img/speaker/tomerullman.jpg" height="175"
+                    <img src="assets/img/speakers/tomerullman.jpg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="http://cncl.yale.edu/" style="position:relative; display:block">Ilker Yildirim <strong>(Speaker)</strong></a>
                     Yale University
                     <br>
-                    <img src="assets/img/speaker/ilkeryildirim.png" height="175"
+                    <img src="assets/img/speakers/ilkeryildirim.png" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="https://rgl.epfl.ch/people/wjakob" style="position:relative; display:block">Wenzel Jakob <strong>(Speaker)</strong></a>
                     EPFL
                     <br>
-                    <img src="assets/img/wenzeljakob.jpg" height="175"
+                    <img src="assets/img/speakers/wenzeljakob.jpg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="https://www.mit.edu/~vpaulun/" style="position:relative; display:block">Vivian Paulun <strong>(Speaker)</strong></a>
                     MIT
                     <br>
-                    <img src="assets/img/vivianpaulun.jpg" height="175"
+                    <img src="assets/img/speakers/vivianpaulun.jpg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="https://zferg.us/" style="position:relative; display:block">Zachary Ferguson <strong>(Speaker)</strong></a>
                     MIT
                     <br>
-                    <img src="assets/img/zacharyferguson.png" height="175"
+                    <img src="assets/img/speakers/zacharyferguson.png" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
                     <a href="https://cseweb.ucsd.edu/~tzli/" style="position:relative; display:block">Tzu-Mao Li <strong>(Speaker)</strong></a>
                     UC San Diego
                     <br>
-                    <img src="assets/img/tzumao.jpg" height="175"
+                    <img src="assets/img/speakers/tzumao.jpg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
             </div>
@@ -84,48 +84,41 @@ permalink: /schedule/
 
 
                 <div class="cellinfo" style="width:45%; float:left;overflow:auto">
-
-                    <h1>artificial intelligence seminar</h1>
+                    <h1>visual reasoning seminar</h1>
                     <br>
                     <br>
-                    <p>Date: Tuesday, July 12</p>
-                    <p>Time: 7:30AM-9AM PDT</p>
-                    <p>
-                        <a href="https://www.youtube.com/watch?v=2G4WNxSRvsE&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=2"
-                           style="position:relative; display:block">Link to recordings</a></p>
-
+                    <p>Date: TODO</p>
+                    <p>Time: TODO PDT</p>
+                    <!-- <p><a href="TODO" style="position:relative; display:block">Link to recordings</a></p> -->
                 </div>
 
 
                 <div class="cellims" style="width:45%;float:right; position:relative;overflow:auto">
-
                     <h2>speakers</h2>
-
-                    <a href="https://research.google/people/105004/" style="position:relative; display:block">David Ha
-                        <strong> (Chair)</strong> </a>
-                    Google
+                    <a href="https://dritchie.github.io/" style="position:relative; display:block">Daniel Ritchie <strong>(Speaker)</strong></a>
+                    Brown University
                     <br>
-                    <img src="http://eyeofestival.com/wp-content/uploads/2017/12/DavidHa.png" height="175"
+                    <img src="assets/img/speakers/danielritchie.jpg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-
                     <br>
-
-                    <a href="https://yulia.gryaditskaya.com/" style="position:relative; display:block">Yulia
-                        Gryaditskaya <strong> (Speaker) </strong> </a>
-                    University of Surrey
-                    <img src="https://yulia.gryaditskaya.com/Me_new.jpg" height="175"
+                    <a href="https://k-r-allen.github.io/" style="position:relative; display:block">Kelsey Allen <strong>(Speaker)</strong></a>
+                    Google DeepMind
+                    <br>
+                    <img src="assets/img/speakers/kelseyallen.jpg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-
                     <br>
-
-
-                    <a href="https://web.mit.edu/zyzzyva/www/academic.html" style="position:relative; display:block">Cathy
-                        Wong<strong> (Speaker)</strong></a>
-                    MIT
+                    <a href="http://www.gilbertbernstein.com/" style="position:relative; display:block">Gilbert Bernstein <strong>(Speaker)</strong></a>
+                    University of Washington, Seattle
                     <br>
-                    <img src="https://web.mit.edu/zyzzyva/www/images/CathyWong_profile.png" height="175"
+                    <img src="assets/img/speakers/gilbertbernstein.jpeg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-
+                    <br>
+                    <a href="https://ac.felixbinder.net/" style="position:relative; display:block">Felix Binder <strong>(Speaker)</strong></a>
+                    UC San Diego
+                    <br>
+                    <img src="assets/img/speakers/felixbinder.png" height="175"
+                         style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                    <br>
                 </div>
 
                 <br>
