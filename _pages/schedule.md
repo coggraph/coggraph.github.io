@@ -38,20 +38,40 @@ permalink: /schedule/
                 </div>
                 <div class="cellims" style="width:45%;float:right;overflow:auto">
                     <h2>speakers</h2>
-                    <a href="http://www.tomerullman.org/" style="position:relative; display:block">Tomer Ullman <strong>(Moderator)</strong>
-                    </a>
+                    <a href="http://www.tomerullman.org/" style="position:relative; display:block">Tomer Ullman <strong>(Moderator)</strong></a>
                     Harvard University
                     <br>
                     <img src="assets/img/speaker/tomerullman.jpg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-                    <br><a href="http://cncl.yale.edu/" style="position:relative; display:block">Ilker Yildirim <strong>(Speaker)</strong></a>
+                    <br>
+                    <a href="http://cncl.yale.edu/" style="position:relative; display:block">Ilker Yildirim <strong>(Speaker)</strong></a>
                     Yale University
+                    <br>
                     <img src="assets/img/speaker/ilkeryildirim.png" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                     <br>
-                    <a href="https://people.coe.uga.edu/logan-fiorella/" style="position:relative; display:block">Logan
-                        Fiorella<strong> (Speaker)</strong> </a> University of Georgia
-                    <img src="../assets/custom_images/FiorellaL_photo.jpg" height="175"
+                    <a href="https://rgl.epfl.ch/people/wjakob" style="position:relative; display:block">Wenzel Jakob <strong>(Speaker)</strong></a>
+                    EPFL
+                    <br>
+                    <img src="assets/img/wenzeljakob.jpg" height="175"
+                         style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                    <br>
+                    <a href="https://www.mit.edu/~vpaulun/" style="position:relative; display:block">Vivian Paulun <strong>(Speaker)</strong></a>
+                    MIT
+                    <br>
+                    <img src="assets/img/vivianpaulun.jpg" height="175"
+                         style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                    <br>
+                    <a href="https://zferg.us/" style="position:relative; display:block">Zachary Ferguson <strong>(Speaker)</strong></a>
+                    MIT
+                    <br>
+                    <img src="assets/img/zacharyferguson.png" height="175"
+                         style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                    <br>
+                    <a href="https://cseweb.ucsd.edu/~tzli/" style="position:relative; display:block">Tzu-Mao Li <strong>(Speaker)</strong></a>
+                    UC San Diego
+                    <br>
+                    <img src="assets/img/tzumao.jpg" height="175"
                          style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
             </div>
