@@ -13,3 +13,13 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+.speaker-img {
+  border: 2px solid gray;
+  width: 175px;
+  height: 175px;
+  background-size: cover;
+  border-radius: 50%;
+  /* https://stackoverflow.com/a/40432371 prevents squashing of photos */
+  object-fit: cover;
+}
