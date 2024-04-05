@@ -38,14 +38,18 @@ social: false  # includes social icons at the bottom of the page
 <p>While drawings have long provided inspiration to researchers in many areas of cognitive science,
 including psychology, artificial intelligence, and neuroscience,
 these communities have not generally had opportunities to interact and share insights.
-At <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci 2022</a>, we bring these perspectives together.</p>
+At <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a>, we bring these perspectives together.</p>
 
-<p>This workshop will explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration.<p>
-<p>We will be using a "flipped" workshop format:<p>
+<!-- <p>This workshop will explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration.<p> -->
+
+<p>We will be using a "flipped" workshop format:
+
+<p>
 <ul>
-
 <li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.</li>
-<li><b>At CogSci (Toronto)</b>. Join us for a poster session and discussion in-person in Toronto.</li></ul></p>
+<li><b>At CogSci (Rotterdam)</b>. Join us for a poster session and discussion in-person in Toronto.</li>
+</ul>
+</p>
 
 <p>View the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1270-cogsci22a-sub1270-i10.pdf">here</a>.
 See the schedule of virtual seminars <a href = "/schedule/">here</a>.
