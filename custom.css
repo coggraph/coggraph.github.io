@@ -83,8 +83,12 @@ a b {
 }
 
 #typing-text {
+  background: linear-gradient(90deg, rgba(255,105,0,1) 0%, rgba(252,185,0,1) 35%, rgba(6,147,227,1) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
   /* color: #09AD94; */
-  color: #FFD700;
+  /* color: #FFD700; */
 }
 
 .navbar.navbar-light .navbar-nav .nav-item .nav-link{
@@ -224,4 +228,10 @@ transform: translateX(-50%); */
   border-radius: 50%;
   /* https://stackoverflow.com/a/40432371 prevents squashing of photos */
   object-fit: cover;
+}
+
+.speaker-img:hover {
+  padding: 2px;
+  border: 0px;
+  background: linear-gradient(90deg, rgba(255,105,0,1) 0%, rgba(252,185,0,1) 35%, rgba(6,147,227,1) 100%);
 }
