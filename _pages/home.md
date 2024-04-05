@@ -44,11 +44,11 @@ At <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci 2022</a>, w
 <p>We will be using a "flipped" workshop format:<p>
 <ul>
 
-<li><b>Before CogSci (Virtual)</b>. Join us for 3 virtual seminars each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.</li>
+<li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.</li>
 <li><b>At CogSci (Toronto)</b>. Join us for a poster session and discussion in-person in Toronto.</li></ul></p>
 
 <p>View the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1270-cogsci22a-sub1270-i10.pdf">here</a>.
-See the schedule of virtual seminars <a href = "https://images2symbols.github.io/schedule/">here</a>.
+See the schedule of virtual seminars <a href = "/schedule/">here</a>.
 </p>
 
 <!-- <div style="text-align: center;">
@@ -58,44 +58,86 @@ See the schedule of virtual seminars <a href = "https://images2symbols.github.io
 </div> -->
 
 <div>
-Feel free to contact the organizers at: <a href="images2symbols@gmail.com">images2symbols@gmail.com</a>.
+Feel free to contact the organizers at: <a href="images2symbols@gmail.com">TODO</a>.
+<br><br>
+
 </div>
 
-<div style="width: 100%">
-<ul>
-<div style="float: left; margin: 10px">
-<a href="https://cogtoolslab.github.io/people.html">
-  <img src="assets/custom_images/FanJE_photo.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-  </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://cogtoolslab.github.io/people.html"><b>Judith Fan</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>UCSD</p></span>
-</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap;">
 
-<div style="float: left; margin: 10px">
-<a href="https://hollyhuey.github.io/">
-  <img src="assets/custom_images/HueyH_photo.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-  </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://hollyhuey.github.io/"><b>Holly Huey</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>UCSD</p></span>
-</div>
+  <div style="float: left; margin: 10px">
+  <a href="https://cs.stanford.edu/~kach/">
+    <img src="../assets/img/organizers/KartikChandra.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+    </a>
+    <span style="display: block; padding: 5%; text-align: center;"><a href="https://cs.stanford.edu/~kach/"><b>Kartik Chandra</b></a></span>
+    <span style="display: block; margin-top: -10px; text-align: center;"><p>MIT</p></span>
+  </div>
 
-<div style="float: left; margin: 10px">
+  <div style="float: left; margin: 10px">
+  <a href="https://persci.mit.edu/people/anne/">
+    <img src="../assets/img/organizers/AnneHarrington.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+    </a>
+    <span style="display: block; padding: 5%; text-align: center;"><a href="https://persci.mit.edu/people/anne/"><b>Anne Harrington</b></a></span>
+    <span style="display: block; margin-top: -10px; text-align: center;"><p>MIT</p></span>
+  </div>
+
+  <div style="float: left; margin: 10px">
+  <a href="https://collinskatie.github.io/">
+    <img src="../assets/img/organizers/KatherineCollins.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+    </a>
+    <span style="display: block; padding: 5%; text-align: center;"><a href="https://collinskatie.github.io/"><b>Katherine Collins</b></a></span>
+    <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Cambridge</p></span>
+  </div>
+
+  <div style="float: left; margin: 10px; margin-left: 0px;">
+    <a href="https://redwood.berkeley.edu/people/chris-kymn/">
+      <img src="../assets/img/organizers/ChrisKymn.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+    </a>
+    <span style="display: block; padding: 5%; text-align: center;"><a href="https://redwood.berkeley.edu/people/chris-kymn/"><b>Christopher Kymn</b>
+    </a></span>
+    <span style="display: block; margin-top: -10px; text-align: center;"><p>UC Berkeley</p></span>
+  </div>
+
+
+
+  <div style="float: left; margin: 10px">
+    <a href="https://cogtoolslab.github.io/people.html">
+      <img src="../assets/img/organizers/JudithFan.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+    </a>
+    <span style="display: block; padding: 5%; text-align: center;"><a href="https://cogtoolslab.github.io/people.html"><b>Judith Fan</b></a></span>
+    <span style="display: block; margin-top: -10px; text-align: center;"><p>Stanford University</p></span>
+  </div>
+
+
+  <div style="float: left; margin: 10px">
+  <a href="https://spascience.github.io/">
+    <img src="../assets/img/organizers/SeanAnderson.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+    </a>
+    <span style="display: block; padding: 5%; text-align: center;"><a href="https://spascience.github.io/"><b>Sean P. Anderson</b></a></span>
+    <span style="display: block; margin-top: -10px; text-align: center;"><p>Stanford University</p></span>
+  </div>
+
+
+  <div style="float: left; margin: 10px">
+  <a href="https://arnavverma.com/">
+    <img src="../assets/img/organizers/ArnavVerma.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+    </a>
+    <span style="display: block; padding: 5%; text-align: center;"><a href="https://arnavverma.com/"><b>Arnav Verma</b></a></span>
+    <span style="display: block; margin-top: -10px; text-align: center;"><p>Stanford University</p></span>
+  </div>
+
+  <div style="float: left; margin: 10px">
 <a href="https://kushinm.github.io/">
-  <img src="assets/custom_images/MukherjeeK_photo.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="../assets/img/organizers/KushinMukherjee.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://kushinm.github.io/"><b>Kushin Mukherjee</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>UW Madison</p></span>
 </div>
 
-<div style="float: left; margin: 10px">
-<a href="http://concepts.psych.wisc.edu/?page_id=73">
-  <img src="assets/custom_images/Timothy-Rogers.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-  </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="http://concepts.psych.wisc.edu/?page_id=73"><b>Timothy Rogers</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>UW Madison</p></span>
 </div>
-</ul>
-</div>
+
+
+
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
 <script src="{{ site.baseurl | prepend: site.url }}/typing.js">
