@@ -26,6 +26,9 @@ social: false  # includes social icons at the bottom of the page
 
 <div>
 <img src="assets/custom_images/landing_page.png" width="80%" style="margin-left:10%; margin-right:10%">
+<div>
+<!-- <iframe src="https://lumalabs.ai/embed/d80d4876-cf71-4b8a-8b5b-49ffac44cd4a?mode=sparkles&background=%23ffffff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false" width="100%" height="500" frameborder="0" title="luma embed" style="border: none;"></iframe> -->
+</div>
 </div>
 
 <div id="container-header">
@@ -47,7 +50,7 @@ At <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a>, w
 <p>
 <ul>
 <li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.</li>
-<li><b>At CogSci (Rotterdam)</b>. Join us for a poster session and discussion in-person in Toronto.</li>
+<li><b>At CogSci (Rotterdam)</b>. Join us for a poster session and discussion in-person in Rotterdam.</li>
 </ul>
 </p>
 
@@ -57,7 +60,7 @@ See the schedule of virtual seminars <a href = "/schedule/">here</a>.
 
 <!-- <div style="text-align: center;">
 <p>
-<h4>Call for poster abstracts! Submit an abstract <a href="https://images2symbols.github.io/abstracts/">here</a></h4>
+<h4>Call for poster abstracts! Suabmit an abstract <a href="https://images2symbols.github.io/abstracts/">here</a></h4>
 </p>
 </div> -->
 
