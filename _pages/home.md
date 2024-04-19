@@ -40,27 +40,25 @@ social: false  # includes social icons at the bottom of the page
         <h3><span id="typing-text"></span></h3></p></div>
 </div>
 
-<p>While drawings have long provided inspiration to researchers in many areas of cognitive science,
-    including psychology, artificial intelligence, and neuroscience,
-    these communities have not generally had opportunities to interact and share insights.
-    At <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a>, we bring these perspectives together.
+<p>The advent of photorealism in computer graphics and a wave of recent work in cognitive science
+    has opened fundamental questions about visual expression. While these separate fields have greatly
+    benefited from each other, their communities have not generally had opportunities to interact and share
+    insights. At <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a>, we bring these perspectives together.
 </p>
 
-<!-- <p>This workshop will explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration.<p> -->
+<p>This workshop will explore questions of human visual communication, expression, and interpretation,
+    catalyzing new opportunities for multidisciplinary collaboration.</p>
 
 <p>We will be using a "flipped" workshop format:
-
-<p>
 <ul>
-    <li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars each highlighting insights from Machine Learning,
-        Neuroscience, and Developmental Science, respectively.
+    <li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars each highlighting insights on Visual Perception, Visual Reasoning, Visual Communication, and Visual Expression, respectively.
     </li>
     <li><b>At CogSci (Rotterdam)</b>. Join us for a poster session and discussion in-person in Rotterdam.</li>
 </ul>
 </p>
 
-<p>View the full workshop description <a
-        href="https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1270-cogsci22a-sub1270-i10.pdf">here</a>.
+<p>
+    View the full workshop proposal <a href="/assets/pdf/COGGRAPH_2024_proposal.pdf">here</a>.
     See the schedule of virtual seminars <a href="/schedule/">here</a>.
 </p>
 
