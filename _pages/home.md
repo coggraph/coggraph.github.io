@@ -27,8 +27,8 @@ social: false  # includes social icons at the bottom of the page
 
 <div>
     <!-- written by chatGPT 3.5 (OpenAI) -->
-    <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-        <image xlink:href="./assets/svg/coggraph-logo.svg" width="80%">
+    <svg width="80%" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+        <image xlink:href="./assets/svg/coggraph-logo.svg" width="100%" transform-origin="50% 50%">
             <animateTransform attributeName="transform"
                               attributeType="XML"
                               type="rotate"
