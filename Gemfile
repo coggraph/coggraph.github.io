@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 gem "github-pages", "~> 231", group: :jekyll_plugins
-gem "webrick", group: :jekyll_plugins
+# gem "webrick", 
+group: :jekyll_plugins
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -15,7 +16,7 @@ group :jekyll_plugins do
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'uri'
+    gem 'uri', '~> 0.13.0'
     gem 'unicode_utils'
     # gem 'webrick'
     gem 'htmlcompressor'
