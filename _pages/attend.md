@@ -7,7 +7,7 @@ permalink: /seminar/
 ---
 <link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css">
 <div style="text-align: center;">
-<p><h2>There are two ways to attend:</h2></p>
+<p><h2>There are two ways to attend: </h2></p>
 </div>
 
 <br>
