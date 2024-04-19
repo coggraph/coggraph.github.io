@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css">
+<link rel="stylesheet" href="../custom.css">
 
 <!-- <div style="text-align: center">
 <p>

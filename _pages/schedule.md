@@ -12,7 +12,7 @@ permalink: /schedule/
 #       permalink: /conf/
 ---
 
-<link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css">
+<link rel="stylesheet" href="../custom.css">
 
 
 <div class="container_tl">
