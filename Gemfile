@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 gem "github-pages", "~> 231", group: :jekyll_plugins
 # gem "webrick", 
 group :jekyll_plugins do
+    gem 'bundler'
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
