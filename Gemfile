@@ -22,4 +22,6 @@ group :jekyll_plugins do
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
     gem 'nokogiri'
+    gem 'rack', '~> 2.2.4'
+    gem 'rspec'
 end
