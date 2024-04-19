@@ -40,8 +40,8 @@ social: false  # includes social icons at the bottom of the page
         <h3><span id="typing-text"></span></h3></p></div>
 </div>
 
-<p>The advent of photorealism in computer graphics and a wave of recent work in cognitive science
-    has opened fundamental questions about visual expression. While these separate fields have greatly
+<p>The advent of photorealism in computer graphics and a plethora of recent work in cognitive science
+    have brought new light to fundamental questions about visual expression. While these separate fields have greatly
     benefited from each other, their communities have not generally had opportunities to interact and share
     insights. At <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a>, we bring these perspectives together.
 </p>
@@ -53,7 +53,7 @@ social: false  # includes social icons at the bottom of the page
 <ul>
     <li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars each highlighting insights on Visual Perception, Visual Reasoning, Visual Communication, and Visual Expression, respectively.
     </li>
-    <li><b>At CogSci (Rotterdam)</b>. Join us for a poster session and discussion in-person in Rotterdam.</li>
+    <li><b>At CogSci (Rotterdam)</b>. Join us for a synthesis of the seminars and discussion in-person in Rotterdam.</li>
 </ul>
 </p>
 
@@ -62,16 +62,9 @@ social: false  # includes social icons at the bottom of the page
     See the schedule of virtual seminars <a href="/schedule/">here</a>.
 </p>
 
-<!-- <div style="text-align: center;">
-<p>
-<h4>Call for poster abstracts! Suabmit an abstract <a href="https://images2symbols.github.io/abstracts/">here</a></h4>
-</p>
-</div> -->
-
 <div>
-    Feel free to contact the organizers at: <a href="images2symbols@gmail.com">TODO</a>.
+    Feel free to contact the organizers by emailing <a href="kach@mit.edu">kach@mit.edu</a> or <a href="annekh@mit.edu">annekh@mit.edu</a>.
     <br><br>
-
 </div>
 
 <div style="width: 100%; display: flex; flex-wrap: wrap;">
