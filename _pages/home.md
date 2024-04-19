@@ -35,17 +35,38 @@ social: false  # includes social icons at the bottom of the page
                               from="0 50 50"
                               to="180 50 50"
                               dur="2s"
-                              repeatCount="indefinite"/>
+                              fill="freeze"
+                              repeatCount="1"/>
             <animateTransform attributeName="transform"
                               attributeType="XML"
                               type="rotate"
                               from="180 50 50"
                               to="360 50 50"
                               dur="2s"
-                              begin="2s"
-                              repeatCount="indefinite"/>
+                              begin="2s; anim1.end"
+                              fill="freeze"
+                              repeatCount="1"/>
+            <animateTransform id="anim1"
+                              attributeName="transform"
+                              attributeType="XML"
+                              type="rotate"
+                              from="180 50 50"
+                              to="180 50 50"
+                              dur="3s"
+                              fill="freeze"
+                              repeatCount="1"/>
+            <animateTransform id="anim2"
+                              attributeName="transform"
+                              attributeType="XML"
+                              type="rotate"
+                              from="360 50 50"
+                              to="360 50 50"
+                              dur="3s"
+                              begin="anim1.end; 5s"
+                              fill="freeze"
+                              repeatCount="1"/>
         </image>
-</svg>
+    </svg>
     <!--<div>
         <iframe src="https://lumalabs.ai/embed/d80d4876-cf71-4b8a-8b5b-49ffac44cd4a?mode=sparkles&background=%23ffffff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false" width="100%" height="500" frameborder="0" title="luma embed" style="border: none;"></iframe>
     </div> -->
@@ -62,7 +83,8 @@ social: false  # includes social icons at the bottom of the page
 <p>The advent of photorealism in computer graphics and a plethora of recent work in cognitive science
     have brought new light to fundamental questions about visual expression. While these separate fields have greatly
     benefited from each other, their communities have not generally had opportunities to interact and share
-    insights. At <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a>, we bring these perspectives together.
+    insights. At <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a>, we bring these perspectives
+    together.
 </p>
 
 <p>This workshop will explore questions of human visual communication, expression, and interpretation,
@@ -70,9 +92,11 @@ social: false  # includes social icons at the bottom of the page
 
 <p>We will be using a "flipped" workshop format:
 <ul>
-    <li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars each highlighting insights on Visual Perception, Visual Reasoning, Visual Communication, and Visual Expression, respectively.
+    <li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars each highlighting insights on Visual Perception,
+        Visual Reasoning, Visual Communication, and Visual Expression, respectively.
     </li>
-    <li><b>At CogSci (Rotterdam)</b>. Join us for a synthesis of the seminars and discussion in-person in Rotterdam.</li>
+    <li><b>At CogSci (Rotterdam)</b>. Join us for a synthesis of the seminars and discussion in-person in Rotterdam.
+    </li>
 </ul>
 </p>
 
