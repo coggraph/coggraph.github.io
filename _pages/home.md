@@ -26,10 +26,29 @@ social: false  # includes social icons at the bottom of the page
 </div> -->
 
 <div>
-    <img src="assets/custom_images/landing_page.png" width="80%" style="margin-left:10%; margin-right:10%">
-    <div>
-        <!-- <iframe src="https://lumalabs.ai/embed/d80d4876-cf71-4b8a-8b5b-49ffac44cd4a?mode=sparkles&background=%23ffffff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false" width="100%" height="500" frameborder="0" title="luma embed" style="border: none;"></iframe> -->
-    </div>
+    <!-- written by chatGPT 3.5 (OpenAI) -->
+    <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+        <image xlink:href="./assets/svg/coggraph-logo.svg" width="80%">
+            <animateTransform attributeName="transform"
+                              attributeType="XML"
+                              type="rotate"
+                              from="0 50 50"
+                              to="180 50 50"
+                              dur="2s"
+                              repeatCount="indefinite"/>
+            <animateTransform attributeName="transform"
+                              attributeType="XML"
+                              type="rotate"
+                              from="180 50 50"
+                              to="360 50 50"
+                              dur="2s"
+                              begin="2s"
+                              repeatCount="indefinite"/>
+        </image>
+</svg>
+    <!--<div>
+        <iframe src="https://lumalabs.ai/embed/d80d4876-cf71-4b8a-8b5b-49ffac44cd4a?mode=sparkles&background=%23ffffff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false" width="100%" height="500" frameborder="0" title="luma embed" style="border: none;"></iframe>
+    </div> -->
 </div>
 
 <div id="container-header">
