@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 gem "github-pages", "~> 231", group: :jekyll_plugins
 # gem "webrick", 
-# group: :jekyll_plugins
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -21,4 +20,5 @@ group :jekyll_plugins do
     # gem 'webrick'
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
+    gem 'nokogiri'
 end
