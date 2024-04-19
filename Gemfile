@@ -17,4 +17,5 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
+    gem "github-pages", "~> 231", group: :jekyll_plugins
 end
