@@ -89,6 +89,14 @@ Feel free to contact the organizers at: <a href="images2symbols@gmail.com">TODO<
   </div>
 
   <div style="float: left; margin: 10px">
+  <a href="https://spascience.github.io/">
+    <img src="../assets/img/organizers/SeanAnderson.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+    </a>
+    <span style="display: block; padding: 5%; text-align: center;"><a href="https://spascience.github.io/"><b>Sean P. Anderson</b></a></span>
+    <span style="display: block; margin-top: -10px; text-align: center;"><p>Stanford University</p></span>
+  </div>
+
+  <div style="float: left; margin: 10px">
   <a href="https://collinskatie.github.io/">
     <img src="../assets/img/organizers/KatherineCollins.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
     </a>
@@ -105,25 +113,13 @@ Feel free to contact the organizers at: <a href="images2symbols@gmail.com">TODO<
     <span style="display: block; margin-top: -10px; text-align: center;"><p>UC Berkeley</p></span>
   </div>
 
-
-
   <div style="float: left; margin: 10px">
-    <a href="https://cogtoolslab.github.io/people.html">
-      <img src="../assets/img/organizers/JudithFan.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+    <a href="https://kushinm.github.io/">
+      <img src="../assets/img/organizers/KushinMukherjee.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
     </a>
-    <span style="display: block; padding: 5%; text-align: center;"><a href="https://cogtoolslab.github.io/people.html"><b>Judith Fan</b></a></span>
-    <span style="display: block; margin-top: -10px; text-align: center;"><p>Stanford University</p></span>
+    <span style="display: block; padding: 5%; text-align: center;"><a href="https://kushinm.github.io/"><b>Kushin Mukherjee</b></a></span>
+    <span style="display: block; margin-top: -10px; text-align: center;"><p>UW Madison</p></span>
   </div>
-
-
-  <div style="float: left; margin: 10px">
-  <a href="https://spascience.github.io/">
-    <img src="../assets/img/organizers/SeanAnderson.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-    </a>
-    <span style="display: block; padding: 5%; text-align: center;"><a href="https://spascience.github.io/"><b>Sean P. Anderson</b></a></span>
-    <span style="display: block; margin-top: -10px; text-align: center;"><p>Stanford University</p></span>
-  </div>
-
 
   <div style="float: left; margin: 10px">
   <a href="https://arnavverma.com/">
@@ -134,12 +130,12 @@ Feel free to contact the organizers at: <a href="images2symbols@gmail.com">TODO<
   </div>
 
   <div style="float: left; margin: 10px">
-<a href="https://kushinm.github.io/">
-  <img src="../assets/img/organizers/KushinMukherjee.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-  </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kushinm.github.io/"><b>Kushin Mukherjee</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>UW Madison</p></span>
-</div>
+    <a href="https://cogtoolslab.github.io/people.html">
+      <img src="../assets/img/organizers/JudithFan.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+    </a>
+    <span style="display: block; padding: 5%; text-align: center;"><a href="https://cogtoolslab.github.io/people.html"><b>Judith Fan</b></a></span>
+    <span style="display: block; margin-top: -10px; text-align: center;"><p>Stanford University</p></span>
+  </div>
 
 </div>
 
