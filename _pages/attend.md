@@ -5,9 +5,9 @@ nav: true
 dropdown: false
 permalink: /seminar/
 ---
-
+<link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css">
 <div style="text-align: center;">
-<p><h3>There are three ways to attend:</h3></p>
+<p><h3>There are two ways to attend:</h3></p>
 </div>
 
 <br>
@@ -17,24 +17,28 @@ permalink: /seminar/
 </div>
 
 <div>
-<p>In advance of CogSci 2022, we will be hosting three virtual seminars, each presenting perspectives from Artificial Intelligence, Neuroscience, and Developmental Science. These talks will be streamed online and for free, allowing attendees to fully experience this component of the workshop from anywhere in the world. These talks will also be recorded and available online for asynchronous viewing.</p>
+<p>In advance of CogSci 2024, we will be hosting four virtual seminars, each presenting perspectives in Visual Perception, Visual Reasoning, Visual Communication, and Visual Expression. These talks will be streamed online and for free, allowing attendees to fully experience this component of the workshop from anywhere in the world. These talks will also be recorded and available online for asynchronous viewing.</p>
 
-<p>Lightly edited recordings will be available <a href = "https://www.youtube.com/playlist?list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C">here</a> after the workshop.</p>
+<!-- <p>Lightly edited recordings will be available <a href = "https://www.youtube.com/playlist?list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C">here</a> after the workshop.</p> -->
 </div>
 
 <br>
 
 <div>
 
-<p><h5><b>At CogSci (Toronto)</b></h5></p>
+<p><h5><b>At CogSci (Rotterdam)</b></h5></p>
 </div>
 
 <div>
-<p> At CogSci, we will stream recordings of our virtual seminars, host a hybrid panel discussion, and offer an in-person poster session to facilitate informal interactions with other researchers. Here is the full schedule of events (all times listed in ET):</p>
+<p> At CogSci, we will stream recordings of our virtual seminars, host a hybrid panel discussion, and offer an in-person poster session to facilitate informal interactions with other researchers. </p>
+<p>
+A full schedule of events is coming soon (all times listed in CEST).
+<!-- Here is the full schedule of events (all times listed in CEST): -->
+</p>
 
 <p> <ul> 
 
-<li>8:30-9:00: Welcome </li>
+<!-- <li>8:30-9:00: Welcome </li>
 <li>9:00-10:00: Developmental Science Seminar (pre-recorded)</li>
 <li>10:00-11:00: Artificial Intelligence Seminar (pre-recorded)</li>
 <li>11:00-12:00: Neuroscience Seminar (pre-recorded)</li>
@@ -51,7 +55,7 @@ permalink: /seminar/
 <li>3:40-3:50: Contributed Talk 4: Drawing What We Hear: Preattentive and Metaphorically Apt Chordal Glyphs (Lind)</li>
 <li>3:50-4:00: BREAK</li>
 <li>4:00-4:30: Poster Session</li>
-<li>5:00-7:00: Happy Hour (TBD location in downtown Toronto)</li>
+<li>5:00-7:00: Happy Hour (TBD location in downtown Toronto)</li> -->
 
 </ul> </p>
 

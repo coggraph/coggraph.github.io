@@ -242,6 +242,31 @@ transform: translateX(-50%); */
 }
 
 /* for main picture on home page */
-svg > * {
-    fill: white;
+.hourglass {
+
+  height: 200px;
+  width: 300px;
+  position: relative;
+  margin: 0 auto;
+  animation:  rotateGlass 10s infinite linear;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+.hourglass::after {
+  content: '';
+  border: 100px solid transparent;
+  border-left: 50px solid white;
+  border-right: 50px solid white;
+  position: absolute;
+  bottom: 0;
+}
+
+
+@keyframes rotateGlass {
+  0% { transform: rotate(0deg); }
+  20% { transform: rotate(180deg); }
+  50% { transform: rotate(180deg); }
+  69.9% { transform: rotate(360deg); }
+  70%, 100% { transform: rotate(0deg); } /* Reset to 0 degrees instantly since 0.1% transition below framerate */
 }
