@@ -34,7 +34,15 @@ li {
 }
 
 h3{
-  color: rgb(203, 213, 225);
+  /* color: rgb(203, 213, 225); */
+  /* color: #FFAA33; */
+   background: linear-gradient(90deg, rgba(255,105,0,1) 0%, rgba(252,185,0,1) 35%, rgba(6,147,227,1) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  display: inline-block; 
+  font-size: 20px;
+  margin-top: 30px;
 }
 h2{
   /* color: rgb(203, 213, 225); */
@@ -241,11 +249,17 @@ transform: translateX(-50%); */
   background: linear-gradient(90deg, rgba(255,105,0,1) 0%, rgba(252,185,0,1) 35%, rgba(6,147,227,1) 100%);
 }
 
+.center {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+}
+
 /* for main picture on home page */
 .hourglass {
-
-  height: 200px;
-  width: 300px;
+  height: 250px;
+  width: 400px;
   position: relative;
   margin: 0 auto;
   animation:  rotateGlass 10s infinite linear;
@@ -267,6 +281,6 @@ transform: translateX(-50%); */
   0% { transform: rotate(0deg); }
   20% { transform: rotate(180deg); }
   50% { transform: rotate(180deg); }
-  69.9% { transform: rotate(360deg); }
+  69.999999% { transform: rotate(360deg); }
   70%, 100% { transform: rotate(0deg); } /* Reset to 0 degrees instantly since 0.1% transition below framerate */
 }

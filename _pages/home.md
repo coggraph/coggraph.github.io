@@ -26,9 +26,11 @@ social: false  # includes social icons at the bottom of the page
 </div> -->
 
 <div>
+<div class="center">
    <svg 
    class="hourglass top"
    width="13.2cm"
+   width="16cm"
    height="4.5999999cm"
    viewBox="0 0 132 45.999997"
    version="1.1"
@@ -291,13 +293,14 @@ social: false  # includes social icons at the bottom of the page
        transform="scale(1,-1)" />
   </g>
 </svg>
+</div>
     
 </div>
 
 <div id="container-header">
 
     <div style="text-align: center;"><p>
-        <h3>Building bridges between...</h3></p></div>
+        <h3>Building bridges between <br /> Cognitive Science 🧠 and Computer Graphics 🫖</h3></p></div>
     <div style="margin-top: -15px; text-align: center;"><p>
         <h3><span id="typing-text"></span></h3></p></div>
 </div>
