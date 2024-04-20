@@ -327,7 +327,7 @@ social: false  # includes social icons at the bottom of the page
 
 <p>
     View the full workshop proposal <a href="/assets/pdf/COGGRAPH_2024_proposal.pdf">here</a>.
-    See the schedule of virtual seminars <a href="/schedule/">here</a>.
+    See the schedule of virtual seminars <a href="assets/pdf/COGGRAPH_2024_proposal.pdf">here</a>.
 </p>
 
 <div>
