@@ -28,7 +28,7 @@ permalink: /schedule/
         <div class="section">
             <div class="bead"></div>
             <div class="content">
-                <div class="cellinfo" style="width:45%; float:left;overflow:auto">
+                <div class="cellinfo" style=" float:left;overflow:auto">
                     <h1>visual perception seminar</h1>
                     <br>
                     <br>
@@ -36,7 +36,7 @@ permalink: /schedule/
                     <p>Time: TODO PDT</p>
                     <!-- <p><a href="TODO" style="position:relative; display:block">Link to recordings</a></p> -->
                 </div>
-                <div class="cellims" style="width:45%;float:right;overflow:auto">
+                <div class="cellims" style="float:right;overflow:auto">
                     <h2>speakers</h2>
                     <br>
 
@@ -84,7 +84,7 @@ permalink: /schedule/
             <div class="content">
 
 
-                <div class="cellinfo" style="width:45%; float:left;overflow:auto">
+                <div class="cellinfo" style=" float:left;overflow:auto">
                     <h1>visual reasoning seminar</h1>
                     <br>
                     <br>
@@ -94,7 +94,7 @@ permalink: /schedule/
                 </div>
 
 
-                <div class="cellims" style="width:45%;float:right; position:relative;overflow:auto">
+                <div class="cellims" style="float:right; position:relative;overflow:auto">
                     <h2>speakers</h2>
                     <br>
                     
@@ -134,7 +134,7 @@ permalink: /schedule/
             <div class="bead"></div>
             <div class="content">
 
-                <div class="cellinfo" style="width:45%; float:left;overflow:auto">
+                <div class="cellinfo" style=" float:left;overflow:auto">
 
                     <h1>visual communication seminar</h1>
                     <br>
@@ -148,7 +148,7 @@ permalink: /schedule/
                 </div>
 
 
-                <div class="cellims" style="width:45%;float:right;overflow:auto">
+                <div class="cellims" style="float:right;overflow:auto">
 
                     <h2>speakers</h2>
                     <br>
@@ -193,7 +193,7 @@ permalink: /schedule/
             <div class="bead"></div>
             <div class="content">
 
-                <div class="cellinfo" style="width:45%; float:left;overflow:auto">
+                <div class="cellinfo" style=" float:left;overflow:auto">
 
                     <h1>visual expression seminar</h1>
                     <br>
@@ -207,7 +207,7 @@ permalink: /schedule/
                 </div>
 
 
-                <div class="cellims" style="width:45%;float:right;overflow:auto">
+                <div class="cellims" style="float:right;overflow:auto">
 
                     <h2>speakers</h2>
                     <br>

@@ -9,6 +9,32 @@
     /* background-image: linear-gradient(315deg, aqua 0%, purple 74%);
 }*/
 
+#navbar-toggle-btn {
+  background-color: #FFD700;
+}
+
+@media (max-width: 575px) {
+  .content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .content .cellims {
+    width: 100%;
+  }
+  .content .cellinfo {
+    width: 100%;
+  }
+}
+
+.cellims {
+  width: 45%;
+}
+
+.cellinfo {
+  width: 45%;
+}
+
 body {
   background-color:rgb(39, 39, 42);
   color: rgb(255, 255, 255);
