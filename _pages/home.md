@@ -300,27 +300,18 @@ social: false  # includes social icons at the bottom of the page
 <div id="container-header">
 
     <div style="text-align: center;"><p>
-        <h3>Building bridges between <br /> Cognitive Science 🧠 and Computer Graphics 🫖</h3></p></div>
+        <h3>Building bridges between cognitive&nbsp;science&nbsp;🧠 and computer&nbsp;graphics&nbsp;🫖</h3></p></div>
     <div style="margin-top: -15px; text-align: center;"><p>
         <h3><span id="typing-text"></span></h3></p></div>
 </div>
 
-<p>The advent of photorealism in computer graphics and a plethora of recent work in cognitive science
-    have brought new light to fundamental questions about visual expression. While these separate fields have greatly
-    benefited from each other, their communities have not generally had opportunities to interact and share
-    insights. At <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a>, we bring these perspectives
-    together.
-</p>
-
-<p>This workshop will explore questions of human visual communication, expression, and interpretation,
-    catalyzing new opportunities for multidisciplinary collaboration.</p>
+<p>
 
 <p>We will be using a "flipped" workshop format:
 <ul>
-    <li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars each highlighting insights on Visual Perception,
-        Visual Reasoning, Visual Communication, and Visual Expression, respectively.
+    <li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual COGGRAPH seminars on Perception, Reasoning, Communication, and Expression.
     </li>
-    <li><b>At CogSci (Rotterdam)</b>. Join us for a synthesis of the seminars and discussion in-person in Rotterdam.
+    <li><b>At <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a> in Rotterdam, NL</b>. Join us for a synthesis of the seminars and in-person activities.
     </li>
 </ul>
 </p>
