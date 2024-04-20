@@ -326,12 +326,12 @@ social: false  # includes social icons at the bottom of the page
 </p>
 
 <p>
-    View the full workshop proposal <a href="/assets/pdf/COGGRAPH_2024_proposal.pdf">here</a>.
+    View the workshop proposal <a href="/assets/pdf/COGGRAPH_2024_proposal.pdf">here</a>.
     See the schedule of virtual seminars <a href="/schedule/">here</a>.
 </p>
 
 <div>
-    Feel free to contact the organizers by emailing <a href="kach@mit.edu">kach@mit.edu</a> or <a href="annekh@mit.edu">annekh@mit.edu</a>.
+    Feel free to contact the organizers by emailing <a href="https://cs.stanford.edu/~kach/">Kartik</a>.
     <br><br>
 </div>
 
