@@ -8,7 +8,7 @@ title: COGGGRAPH Workshop 2024 # the website title (if blank, full name will be 
 # last_name: Last
 email: images2symbols@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Integrating ideas from neuroscience, developmental science, and machine learning to understand visual production and comprehension.
+  Building bridges between Cognitive Science and Computer Graphics.
 footer_text: >
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
