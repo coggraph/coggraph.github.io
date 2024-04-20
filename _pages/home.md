@@ -50,6 +50,7 @@ social: false  # includes social icons at the bottom of the page
     <br><br>
 </div>
 
+<h2>Organizers</h2>
 <div style="width: 100%; display: flex; flex-wrap: wrap;">
 
     <div style="float: left; margin: 10px">
