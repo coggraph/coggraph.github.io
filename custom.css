@@ -259,6 +259,11 @@ transform: translateX(-50%); */
   opacity: 1;
 } */
 
+.speaker-entry {
+  float: left;
+  margin: 10px;
+}
+
 .speaker-img {
   border: 2px solid gray;
   width: 175px;

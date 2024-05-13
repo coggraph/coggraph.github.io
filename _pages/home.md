@@ -50,6 +50,37 @@ social: false  # includes social icons at the bottom of the page
     <br><br>
 </div>
 
+<h2>Schedule</h2>
+
+<h3>visual perception seminar</h3>
+<p>Date: TODO</p>
+<br />
+<p>Time: TODO</p>
+<h4>speakers</h4>
+<div style="width: 100%; display: flex; flex-wrap: wrap;">
+    <div class="speaker-entry">
+        <a href="http://cncl.yale.edu/" style="position:relative; display:block">Ilker Yildirim <strong>(Speaker)</strong></a>
+        Yale University
+        <img class="speaker-img" src="../assets/img/speakers/ilkeryildirim.png">
+    </div>
+
+    <div class="speaker-entry">
+        <a href="https://rgl.epfl.ch/people/wjakob" style="position:relative; display:block">Wenzel Jakob <strong>(Speaker)</strong></a>
+        EPFL
+        <img class="speaker-img" src="../assets/img/speakers/wenzeljakob.jpg">
+    </div>
+</div>
+
+<h3>visual reasoning seminar</h3>
+<p>Date: TODO</p>
+<br />
+<p>Time: TODO</p>
+<h4>speakers</h4>
+<div style="width: 100%; display: flex; flex-wrap: wrap;">
+
+</div>
+
+
 <h2>Organizers</h2>
 <div style="width: 100%; display: flex; flex-wrap: wrap;">
 
