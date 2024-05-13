@@ -140,7 +140,7 @@ social: false  # includes social icons at the bottom of the page
     <div class="speaker-entry">
         <img class="speaker-img" src="../assets/img/speakers/gilbertbernstein.jpeg">
         <div>
-            <a href="http://www.gilbertbernstein.com/" style="position:relative; display:block">Gilbert Bernstein <strong>(Speaker)</strong>
+            <a href="http://www.gilbertbernstein.com/" style="position:relative; display:block">Gilbert Bernstein <strong>(Speaker)</strong></a>
             <div>University of Washington, Seattle</div>
         </div>
     </div>
