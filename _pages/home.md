@@ -45,7 +45,7 @@ social: false  # includes social icons at the bottom of the page
 
 <p>
     View the workshop proposal <a href="/assets/pdf/COGGRAPH_2024_proposal.pdf">here</a>.
-    See the schedule of virtual seminars <a href="/schedule/">here</a>.
+    See the schedule of virtual seminars <a href="#schedule">below</a>.
 </p>
 
 <div>
@@ -53,7 +53,7 @@ social: false  # includes social icons at the bottom of the page
     <br><br>
 </div>
 
-<h2>Schedule</h2>
+<h2 id="schedule">Schedule</h2>
 
 <h3>visual perception seminar</h3>
 <div>
