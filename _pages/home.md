@@ -141,7 +141,7 @@ social: false  # includes social icons at the bottom of the page
         <img class="speaker-img" src="../assets/img/speakers/gilbertbernstein.jpeg">
         <div>
             <a href="http://www.gilbertbernstein.com/" style="position:relative; display:block">Gilbert Bernstein <strong>(Speaker)</strong></a>
-            <div>University of Washington, Seattle</div>
+            <div>UWashington, Seattle</div>
         </div>
     </div>
 
@@ -152,6 +152,26 @@ social: false  # includes social icons at the bottom of the page
             <div>UC San Diego</div>
         </div>
     </div>
+</div>
+
+<h3>visual communication seminar</h3>
+<div>
+    <p>
+        Date: <b>TODO</b>. Time: <b>TODO</b>
+    </p>
+</div>
+
+<div style="width: 100%; display: flex; flex-wrap: wrap;">
+</div>
+
+<h3>visual expression seminar</h3>
+<div>
+    <p>
+        Date: <b>TODO</b>. Time: <b>TODO</b>
+    </p>
+</div>
+
+<div style="width: 100%; display: flex; flex-wrap: wrap;">
 </div>
 
 
