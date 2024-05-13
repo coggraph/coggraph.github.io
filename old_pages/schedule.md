@@ -1,7 +1,7 @@
 ---
 layout: page
 title: schedule
-nav: true
+nav: false
 dropdown: false
 permalink: /schedule/
 # children:
