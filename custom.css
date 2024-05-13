@@ -59,6 +59,10 @@ li {
   color: rgb(203, 213, 225);
 }
 
+h4 {
+
+}
+
 h3{
   /* color: rgb(203, 213, 225); */
   /* color: #FFAA33; */
@@ -67,7 +71,7 @@ h3{
   background-clip: text;
   color: transparent;
   display: inline-block; 
-  font-size: 20px;
+  font-size: 30px;
   margin-top: 30px;
 }
 h2{
@@ -262,12 +266,18 @@ transform: translateX(-50%); */
 .speaker-entry {
   float: left;
   margin: 10px;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  font-weight: 400;
 }
 
 .speaker-img {
   border: 2px solid gray;
-  width: 175px;
-  height: 175px;
+  width: 150px;
+  height: 150px;
   background-size: cover;
   border-radius: 50%;
   /* https://stackoverflow.com/a/40432371 prevents squashing of photos */

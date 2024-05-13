@@ -53,10 +53,13 @@ social: false  # includes social icons at the bottom of the page
 <h2>Schedule</h2>
 
 <h3>visual perception seminar</h3>
-<p>Date: TODO</p>
-<br />
-<p>Time: TODO</p>
-<h4>speakers</h4>
+<div>
+<p >
+Date: <b>TODO</b>.  Time: <b>TODO</b>
+
+</p>
+</div>
+
 <div style="width: 100%; display: flex; flex-wrap: wrap;">
     <div class="speaker-entry">
         <a href="http://cncl.yale.edu/" style="position:relative; display:block">Ilker Yildirim <strong>(Speaker)</strong></a>
@@ -64,18 +67,19 @@ social: false  # includes social icons at the bottom of the page
         <img class="speaker-img" src="../assets/img/speakers/ilkeryildirim.png">
     </div>
 
-    <div class="speaker-entry">
-        <a href="https://rgl.epfl.ch/people/wjakob" style="position:relative; display:block">Wenzel Jakob <strong>(Speaker)</strong></a>
-        EPFL
-        <img class="speaker-img" src="../assets/img/speakers/wenzeljakob.jpg">
-    </div>
+   <div class="speaker-entry">
+      <img class="speaker-img" src="../assets/img/speakers/wenzeljakob.jpg">
+      <div> 
+      <a href="https://rgl.epfl.ch/people/wjakob" style="position:relative; display:block">Wenzel Jakob <strong>(Speaker)</strong></a>
+      <div> EPFL </div>
+   </div>
+      </div>
 </div>
 
 <h3>visual reasoning seminar</h3>
 <p>Date: TODO</p>
 <br />
 <p>Time: TODO</p>
-<h4>speakers</h4>
 <div style="width: 100%; display: flex; flex-wrap: wrap;">
 
 </div>
