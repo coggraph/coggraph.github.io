@@ -40,11 +40,6 @@ permalink: /schedule/
                     <h2>speakers</h2>
                     <br>
 
-                    <a href="http://www.tomerullman.org/" style="position:relative; display:block">Tomer Ullman <strong>(Moderator)</strong></a>
-                    Harvard University
-                    <img class="speaker-img" src="../assets/img/speakers/tomerullman.jpg">
-                    <br><br>
-
                     <a href="http://cncl.yale.edu/" style="position:relative; display:block">Ilker Yildirim <strong>(Speaker)</strong></a>
                     Yale University
                     <br>
@@ -97,7 +92,12 @@ permalink: /schedule/
                 <div class="cellims" style="float:right; position:relative;overflow:auto">
                     <h2>speakers</h2>
                     <br>
-                    
+
+                    <a href="http://www.tomerullman.org/" style="position:relative; display:block">Tomer Ullman <strong>(Moderator)</strong></a>
+                    Harvard University
+                    <img class="speaker-img" src="../assets/img/speakers/tomerullman.jpg">
+                    <br><br>
+
                     <a href="https://dritchie.github.io/" style="position:relative; display:block">Daniel Ritchie <strong>(Speaker)</strong></a>
                     Brown University
                     <br>
