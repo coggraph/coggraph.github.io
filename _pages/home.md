@@ -55,6 +55,54 @@ social: false  # includes social icons at the bottom of the page
 
 <h2 id="schedule">Schedule</h2>
 
+<h3>visual communication seminar</h3>
+<div>
+    <p>
+        Date: <b>Wednesday, June 12th</b>. Time: <b>4:00pm Eastern Time</b>
+    </p>
+</div>
+
+<div style="width: 100%; display: flex; flex-wrap: wrap;">
+
+    <div class="speaker-entry">
+        <img class="speaker-img" src="../assets/img/speakers/GabrielGreenberg.jpeg">
+        <div>
+            <a href="https://www.gabrielgreenberg.com/" style="position:relative; display:block">
+                Gabriel Greenberg <strong> (Moderator)</strong>
+            </a>
+            <div>UCLA</div>
+        </div>
+    </div>
+
+    <div class="speaker-entry">
+        <img src="../assets/img/speakers/ManeeshAgrawala.jpeg" class="speaker-img">
+        <div>
+            <a href="https://graphics.stanford.edu/~maneesh/" style="position:relative; display:block">
+                Maneesh Agrawala<strong> (Speaker)</strong>
+            </a>
+            <div>Stanford University</div>
+        </div>
+    </div>
+
+    <div class="speaker-entry">
+        <img src="../assets/img/speakers/CindyXiong.jpeg" class="speaker-img">
+        <div>
+            <a href="https://cyxiong.com/" style="position:relative; display:block"> Cindy Xiong<strong>
+                (Speaker)</strong></a>
+            <div>Georgia Tech</div>
+        </div>
+    </div>
+
+    <div class="speaker-entry">
+        <img src="../assets/img/speakers/ZoyaBylinskii.jpeg" class="speaker-img">
+        <div>
+            <a href="http://zoyathinks.com/" style="position:relative; display:block"> Zoya Bylinskii<strong>
+                (Speaker)</strong></a>
+            <div>Adobe</div>
+        </div>
+    </div>
+</div>
+
 <h3>visual perception seminar</h3>
 <div>
     <p>
@@ -91,7 +139,8 @@ social: false  # includes social icons at the bottom of the page
     <div class="speaker-entry">
         <img class="speaker-img" src="../assets/img/speakers/zacharyferguson.png">
         <div>
-            <a href="https://zferg.us/" style="position:relative; display:block">Zachary Ferguson <strong>(Speaker)</strong></a>
+            <a href="https://zferg.us/" style="position:relative; display:block">Zachary Ferguson
+                <strong>(Speaker)</strong></a>
             <div>MIT</div>
         </div>
     </div>
@@ -140,7 +189,8 @@ social: false  # includes social icons at the bottom of the page
     <div class="speaker-entry">
         <img class="speaker-img" src="../assets/img/speakers/gilbertbernstein.jpeg">
         <div>
-            <a href="http://www.gilbertbernstein.com/" style="position:relative; display:block">Gilbert Bernstein <strong>(Speaker)</strong></a>
+            <a href="http://www.gilbertbernstein.com/" style="position:relative; display:block">Gilbert Bernstein
+                <strong>(Speaker)</strong></a>
             <div>UWashington, Seattle</div>
         </div>
     </div>
@@ -154,53 +204,6 @@ social: false  # includes social icons at the bottom of the page
     </div>
 </div>
 
-<h3>visual communication seminar</h3>
-<div>
-    <p>
-        Date: <b>Wednesday, June 12th</b>. Time: <b>4:00pm Eastern Time</b>
-    </p>
-</div>
-
-<div style="width: 100%; display: flex; flex-wrap: wrap;">
-
-<div class="speaker-entry">
-    <img class="speaker-img"  src="../assets/img/speakers/GabrielGreenberg.jpeg" >
-    <div> 
-        <a href="https://www.gabrielgreenberg.com/" style="position:relative; display:block">
-        Gabriel Greenberg <strong> (Moderator)</strong>
-        </a>
-        <div>UCLA</div>
-    </div>
-</div>
-
-<div class="speaker-entry">
-    <img src="../assets/img/speakers/ManeeshAgrawala.jpeg" class="speaker-img">
-    <div>
-        <a href="https://graphics.stanford.edu/~maneesh/" style="position:relative; display:block">
-        Maneesh Agrawala<strong> (Speaker)</strong>
-        </a>
-        <div>Stanford University</div>
-    </div>
-</div>
-
-<div class="speaker-entry">
-<img src="../assets/img/speakers/CindyXiong.jpeg" class="speaker-img">
-    <div>
-        <a href="https://cyxiong.com/" style="position:relative; display:block"> Cindy Xiong<strong> (Speaker)</strong></a>
-        <div>Georgia Tech</div>
-    </div>
-</div>
-
-<div class="speaker-entry">
-    <img src="../assets/img/speakers/ZoyaBylinskii.jpeg" class="speaker-img">
-    <div>
-        <a href="http://zoyathinks.com/" style="position:relative; display:block"> Zoya Bylinskii<strong> (Speaker)</strong></a>
-        <div>Adobe</div>
-    </div>
-</div>
-
-
-</div>
 
 <h3>visual expression seminar</h3>
 <div>
@@ -211,41 +214,44 @@ social: false  # includes social icons at the bottom of the page
 
 <div style="width: 100%; display: flex; flex-wrap: wrap;">
 
-<div class="speaker-entry">
-    <img class="speaker-img" src="../assets/img/speakers/AaronHertzmann.jpeg">
-    <div>
-        <a href="https://www.dgp.toronto.edu/~hertzman/" style="position:relative; display:block">Aaron Hertzmann<strong> (Speaker)</strong></a>
-        <div>Adobe</div>
+    <div class="speaker-entry">
+        <img class="speaker-img" src="../assets/img/speakers/AaronHertzmann.jpeg">
+        <div>
+            <a href="https://www.dgp.toronto.edu/~hertzman/" style="position:relative; display:block">Aaron
+                Hertzmann<strong> (Speaker)</strong></a>
+            <div>Adobe</div>
+        </div>
+    </div>
+
+    <div class="speaker-entry">
+        <img src="../assets/img/speakers/SarahSchwettmann.jpeg" class="speaker-img">
+        <div>
+            <a href="https://www.cogconfluence.com/" style="position:relative; display:block">Sarah Schwettmann<strong>
+                (Speaker)</strong></a>
+            <div>MIT</div>
+        </div>
+    </div>
+
+    <div class="speaker-entry">
+        <img src="../assets/img/speakers/YaelVinker.jpeg" class="speaker-img">
+        <div>
+            <a href="https://yael-vinker.github.io/website/" style="position:relative; display:block"> Yael
+                Vinker<strong> (Speaker)</strong></a>
+            <div>Tel-Aviv University</div>
+        </div>
+    </div>
+
+    <div class="speaker-entry">
+        <img src="../assets/img/speakers/CassidyCurtis.jpeg" class="speaker-img">
+        <div>
+            <a href="https://otherthings.com/portfolio/" style="position:relative; display:block">Cassidy Curtis<strong>
+                (Speaker)</strong></a>
+            <div>Google</div>
+        </div>
     </div>
 </div>
 
-<div class="speaker-entry">
-    <img src="../assets/img/speakers/SarahSchwettmann.jpeg" class="speaker-img">
-    <div>
-        <a href="https://www.cogconfluence.com/" style="position:relative; display:block">Sarah Schwettmann<strong> (Speaker)</strong></a>
-        <div>MIT</div>
-    </div>
-</div>
-
-<div class="speaker-entry">
-    <img src="../assets/img/speakers/YaelVinker.jpeg" class="speaker-img">
-    <div>
-        <a href="https://yael-vinker.github.io/website/" style="position:relative; display:block"> Yael Vinker<strong> (Speaker)</strong></a>
-        <div>Tel-Aviv University</div>
-    </div>
-</div>
-
-<div class="speaker-entry">
-    <img src="../assets/img/speakers/CassidyCurtis.jpeg" class="speaker-img">
-    <div>
-        <a href="https://otherthings.com/portfolio/" style="position:relative; display:block">Cassidy Curtis<strong> (Speaker)</strong></a>
-        <div>Google</div>
-    </div>
-</div>
-
-</div>
-
-<br/> <br />
+<br/> <br/>
 <h2>Organizers</h2>
 <div style="width: 100%; display: flex; flex-wrap: wrap;">
 
@@ -324,10 +330,10 @@ social: false  # includes social icons at the bottom of the page
                 href="https://cogtoolslab.github.io/people.html"><b>Judith Fan</b></a></span>
         <span style="display: block; margin-top: -10px; text-align: center;"><p>Stanford University</p></span>
     </div>
-
 </div>
 
 
+<!-- COGGRAPH graphic -->
 <div class="center">
     <svg
             class="hourglass top"
