@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 
 <p>Sign up for updates below! You are also welcome to contact the COGGRAPH organizers with questions and comments by emailing <a href="https://cs.stanford.edu/~kach/">Kartik</a>.</p>
 
-<p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct1rOtqTtX1jDoO0tBlcO57P-8QxzFYFsseawvfZdZ7M_geQ/viewform?embedded=true" width="600" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+<p class="center"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct1rOtqTtX1jDoO0tBlcO57P-8QxzFYFsseawvfZdZ7M_geQ/viewform?embedded=true" width="600" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
 
 <h2 id="schedule">Schedule</h2>
 
@@ -37,7 +37,7 @@ social: false  # includes social icons at the bottom of the page
     </p>
 </div>
 
-<div style="width: 100%; display: flex; flex-wrap: wrap;">
+<div class="center" style="width: 100%; display: flex; flex-wrap: wrap;">
 
     <div class="speaker-entry">
         <img class="speaker-img" src="../assets/img/speakers/GabrielGreenberg.jpeg">
