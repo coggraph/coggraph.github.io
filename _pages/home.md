@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 
 <p>We're doing things a little differently than usual. In 2024, COGGRAPH will take place as a series of four <strong>virtual online seminars</strong> &mdash; free &amp; open to the public &mdash; featuring interactive conversations with speakers from cognitive science, computer graphics, and the arts. Then, in late July, we will convene <strong>in-person</strong> for activities at the <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a> conference in Rotterdam. (In 2025, we plan to be at SIGGRAPH!)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct1rOtqTtX1jDoO0tBlcO57P-8QxzFYFsseawvfZdZ7M_geQ/viewform?embedded=true" width="640" height="1475" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct1rOtqTtX1jDoO0tBlcO57P-8QxzFYFsseawvfZdZ7M_geQ/viewform?embedded=true" width="600" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <p>
     If you have any questions, feel free to contact the organizers by emailing <a href="https://cs.stanford.edu/~kach/">Kartik</a>.
