@@ -30,6 +30,7 @@ social: false  # includes social icons at the bottom of the page
     <p>
         Date: <b>Wednesday, June 12th</b>. Time: <b>4:00pm ET</b>
     </p>
+    <p>At its best, visual computing systems can empower people to communicate — with each other, and with their computer systems. But sometimes, visual computing technologies can lead to miscommunication, confusion, frustration, or worse. Why? What causes communication to break down, and what can we do about it?</p>
 </div>
 
 <div class="center" style="width: 100%; display: flex; flex-wrap: wrap;">
@@ -76,6 +77,7 @@ social: false  # includes social icons at the bottom of the page
     <p>
         Date: <b>Monday, June 17th</b>. Time: <b>11:00am ET</b>
     </p>
+    <p>The idea of modeling human perception as “inverse graphics” has long inspired researchers in cognitive science and AI — but despite decades of progress, such a model remains elusive. Why? What is the single greatest computational challenge in running optical or physical simulations in reverse?</p>
 </div>
 
 <div class="center" style="width: 100%; display: flex; flex-wrap: wrap;">
@@ -127,6 +129,7 @@ social: false  # includes social icons at the bottom of the page
     <p>
         Date: <b>Wednesday, July 3rd</b>. Time: <b>4:00pm ET</b>
     </p>
+    <p>From designing tools to proving theorems, people rely on spatial and geometric abstractions to solve problems. But of course, some abstractions are more helpful than others. Why? How can you tell if an abstraction will be useful for problem-solving?</p>
 </div>
 
 <div class="center" style="width: 100%; display: flex; flex-wrap: wrap;">
@@ -178,6 +181,7 @@ social: false  # includes social icons at the bottom of the page
     <p>
         Date: <b>Tuesday, July 16th</b>. Time: <b>2:00pm ET</b>
     </p>
+    <p>The field of computer graphics has long been interested in algorithms for “non-photorealistic” rendering and animation. Why? What is it about the human mind that drives us to create — and allows us to perceive — images and videos that are not perceptually faithful to reality?</p>
 </div>
 
 <div class="center" style="width: 100%; display: flex; flex-wrap: wrap;">
