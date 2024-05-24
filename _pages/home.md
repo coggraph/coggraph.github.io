@@ -224,7 +224,7 @@ social: false  # includes social icons at the bottom of the page
     <div style="float: left; margin: 10px">
         <a href="https://cs.stanford.edu/~kach/">
             <img src="../assets/img/organizers/KartikChandra.jpeg"
-                 style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a href="https://cs.stanford.edu/~kach/"><b>Kartik Chandra</b></a></span>
         <span style="display: block; margin-top: -10px; text-align: center;"><p>MIT</p></span>
@@ -233,7 +233,7 @@ social: false  # includes social icons at the bottom of the page
     <div style="float: left; margin: 10px">
         <a href="https://persci.mit.edu/people/anne/">
             <img src="../assets/img/organizers/AnneHarrington.png"
-                 style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a href="https://persci.mit.edu/people/anne/"><b>Anne Harrington</b></a></span>
         <span style="display: block; margin-top: -10px; text-align: center;"><p>MIT</p></span>
@@ -242,7 +242,7 @@ social: false  # includes social icons at the bottom of the page
     <div style="float: left; margin: 10px">
         <a href="https://spascience.github.io/">
             <img src="../assets/img/organizers/SeanAnderson.png"
-                 style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a href="https://spascience.github.io/"><b>Sean P. Anderson</b></a></span>
         <span style="display: block; margin-top: -10px; text-align: center;"><p>Stanford University</p></span>
@@ -251,7 +251,7 @@ social: false  # includes social icons at the bottom of the page
     <div style="float: left; margin: 10px">
         <a href="https://collinskatie.github.io/">
             <img src="../assets/img/organizers/KatherineCollins.png"
-                 style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a href="https://collinskatie.github.io/"><b>Katherine Collins</b></a></span>
         <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Cambridge</p></span>
@@ -260,7 +260,7 @@ social: false  # includes social icons at the bottom of the page
     <div style="float: left; margin: 10px; margin-left: 0px;">
         <a href="https://redwood.berkeley.edu/people/chris-kymn/">
             <img src="../assets/img/organizers/ChrisKymn.png"
-                 style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a
                 href="https://redwood.berkeley.edu/people/chris-kymn/"><b>Christopher Kymn</b>
@@ -271,7 +271,7 @@ social: false  # includes social icons at the bottom of the page
     <div style="float: left; margin: 10px">
         <a href="https://kushinm.github.io/">
             <img src="../assets/img/organizers/KushinMukherjee.jpeg"
-                 style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a href="https://kushinm.github.io/"><b>Kushin Mukherjee</b></a></span>
         <span style="display: block; margin-top: -10px; text-align: center;"><p>UW Madison</p></span>
@@ -280,7 +280,7 @@ social: false  # includes social icons at the bottom of the page
     <div style="float: left; margin: 10px">
         <a href="https://arnavverma.com/">
             <img src="../assets/img/organizers/ArnavVerma.jpeg"
-                 style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a
                 href="https://arnavverma.com/"><b>Arnav Verma</b></a></span>
@@ -290,7 +290,7 @@ social: false  # includes social icons at the bottom of the page
     <div style="float: left; margin: 10px">
         <a href="https://cogtoolslab.github.io/people.html">
             <img src="../assets/img/organizers/JudithFan.jpeg"
-                 style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a
                 href="https://cogtoolslab.github.io/people.html"><b>Judith Fan</b></a></span>
