@@ -224,7 +224,7 @@ social: false  # includes social icons at the bottom of the page
 
 <br/> <br/>
 <h2>Organizers</h2>
-<div style="width: 100%; display: flex; flex-wrap: wrap;">
+<div class="center" style="width: 100%; display: flex; flex-wrap: wrap;">
 
     <div style="float: left; margin: 10px">
         <a href="https://cs.stanford.edu/~kach/">
