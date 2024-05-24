@@ -83,7 +83,7 @@ social: false  # includes social icons at the bottom of the page
     </p>
 </div>
 
-<div style="width: 100%; display: flex; flex-wrap: wrap;">
+<div class="center" style="width: 100%; display: flex; flex-wrap: wrap;">
     <div class="speaker-entry">
         <img class="speaker-img" src="../assets/img/speakers/ilkeryildirim.png">
         <div>
@@ -134,7 +134,7 @@ social: false  # includes social icons at the bottom of the page
     </p>
 </div>
 
-<div style="width: 100%; display: flex; flex-wrap: wrap;">
+<div class="center" style="width: 100%; display: flex; flex-wrap: wrap;">
     <div class="speaker-entry">
         <img class="speaker-img" src="../assets/img/speakers/tomerullman.jpg">
         <div>
@@ -185,7 +185,7 @@ social: false  # includes social icons at the bottom of the page
     </p>
 </div>
 
-<div style="width: 100%; display: flex; flex-wrap: wrap;">
+<div class="center" style="width: 100%; display: flex; flex-wrap: wrap;">
 
     <div class="speaker-entry">
         <img class="speaker-img" src="../assets/img/speakers/AaronHertzmann.jpeg">
