@@ -30,7 +30,7 @@ social: false  # includes social icons at the bottom of the page
 
 <h2 id="schedule">Schedule</h2>
 
-<h3>visual communication seminar</h3>
+<h3>Seminar #1: Visual Communication</h3>
 <div>
     <p>
         Date: <b>Wednesday, June 12th</b>. Time: <b>4:00pm Eastern Time</b>
@@ -78,7 +78,7 @@ social: false  # includes social icons at the bottom of the page
     </div>
 </div>
 
-<h3>visual perception seminar</h3>
+<h3>Seminar #2: Visual Perception</h3>
 <div>
     <p>
         Date: <b>Monday, June 17th</b>. Time: <b>11:00am Eastern Time</b>
@@ -129,7 +129,7 @@ social: false  # includes social icons at the bottom of the page
     </div>
 </div>
 
-<h3>visual reasoning seminar</h3>
+<h3>Seminar #3: Visual Reasoning</h3>
 <div>
     <p>
         Date: <b>Wednesday, July 3rd</b>. Time: <b>4:00pm Eastern Time</b>
@@ -180,7 +180,7 @@ social: false  # includes social icons at the bottom of the page
 </div>
 
 
-<h3>visual expression seminar</h3>
+<h3>Seminar #4: Visual Expression</h3>
 <div>
     <p>
         Date: <b>Tuesday, July 16th</b>. Time: <b>2:00pm Eastern Time</b>
