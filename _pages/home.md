@@ -20,27 +20,12 @@ social: false  # includes social icons at the bottom of the page
 
 <p><em>"A work of art may be understood as a conductor from the artist's mind to the viewer's." &mdash;Sol LeWitt</em></p>
 
-<p>COGGRAPH is a new workshop at the interface between <strong>cognitive science</strong> and <strong>computer graphics</strong>. We believe that building bridges between these disciplines can help us ask and answer big questions about perception and depiction.
+<p>COGGRAPH is a new workshop at the interface between <strong>cognitive science</strong> and <strong>computer graphics</strong>. We believe that building bridges between these disciplines can help us ask and answer big questions about perception and depiction: questions about how we see, communicate, reason, and express ourselves. The study of the mind can help computer graphics advance the goals of visual computing, while the tools and methods of graphics can help us better study the mind. (For more on our vision for COGGRAPH, read our workshop proposal <a href="/assets/pdf/COGGRAPH_2024_proposal.pdf">here</a>.)
 
-<p>We will be using a "flipped" workshop format:
-<ul>
-    <li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual COGGRAPH seminars on Perception, Reasoning, Communication,
-        and Expression.
-    </li>
-    <li><b>At <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a> in Rotterdam, NL</b>. Join us
-        for a synthesis of the seminars and in-person activities.
-    </li>
-</ul>
-</p>
-
-<p>
-    View the workshop proposal <a href="/assets/pdf/COGGRAPH_2024_proposal.pdf">here</a>.
-    See the schedule of virtual seminars <a href="#schedule">below</a>.
-</p>
+<p>In 2024, COGGRAPH will take place as a series of four <strong>virtual online seminars (free &amp; open to the public)</strong>, followed by <strong>in-person activities</strong> at the <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a> conference in Rotterdam.
 
 <div>
-    Feel free to contact the organizers by emailing <a href="https://cs.stanford.edu/~kach/">Kartik</a>.
-    <br><br>
+    If you have any questions, feel free to contact the organizers by emailing <a href="https://cs.stanford.edu/~kach/">Kartik</a>.
 </div>
 
 <h2 id="schedule">Schedule</h2>
