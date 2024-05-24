@@ -20,15 +20,13 @@ social: false  # includes social icons at the bottom of the page
 
 <p><em>"A work of art may be understood as a conductor from the artist's mind to the viewer's." &mdash;Sol LeWitt</em></p>
 
-<p><strong>COGGRAPH</strong> is a new workshop at the interface between <strong>cognitive science</strong> and <strong>computer graphics</strong>. We believe that building bridges between these scientific communities can help us ask and answer big questions about perception and depiction: questions about how we see, communicate, reason, and express ourselves. We think that the study of the mind can help computer graphics advance the goals of visual computing, while the tools and methods of graphics can help us better study the mind &mdash; and we want to grow a community of researchers who feel the same. (For more on our vision for COGGRAPH, you can read our workshop proposal <a href="/assets/pdf/COGGRAPH_2024_proposal.pdf">here</a>.)
+<p><strong>COGGRAPH</strong> is a new workshop at the interface between <strong>cognitive science 🧠</strong> and <strong>computer graphics 🫖</strong>. Building bridges between these scientific communities can help us ask and answer big questions about perception and depiction: questions about how we see, communicate, reason, and express ourselves. We believe the study of the mind can help computer graphics advance the goals of visual computing, while the tools and methods of graphics can help us better study the mind &mdash; and we want to grow a community of researchers who feel the same. (For more on our vision for COGGRAPH, you can read our workshop proposal <a href="/assets/pdf/COGGRAPH_2024_proposal.pdf">here</a>.)
 
-<p>We're doing things a little differently than usual. In 2024, COGGRAPH will take place as a series of four <strong>virtual online seminars</strong> &mdash; free &amp; open to the public &mdash; featuring interactive conversations with speakers from cognitive science, computer graphics, and the arts. Then, in late July, we will convene <strong>in-person</strong> for activities at the <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a> conference in Rotterdam. (In 2025, we plan to be at SIGGRAPH!)
+<p>We're doing things a little differently than usual. In 2024, COGGRAPH will take place as a series of four <strong>virtual online seminars</strong> &mdash; free &amp; open to the public &mdash; featuring interactive conversations with speakers from cognitive science, computer graphics, and the arts. Then, in late July, we will convene <strong>in-person</strong> for activities at the <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a> conference in Rotterdam. (In 2025, we'll plan to be at SIGGRAPH!)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct1rOtqTtX1jDoO0tBlcO57P-8QxzFYFsseawvfZdZ7M_geQ/viewform?embedded=true" width="600" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<p>Sign up for updates below! You are also welcome to contact the COGGRAPH organizers with questions and comments by emailing <a href="https://cs.stanford.edu/~kach/">Kartik</a>.</p>
 
-<p>
-    If you have any questions, feel free to contact the organizers by emailing <a href="https://cs.stanford.edu/~kach/">Kartik</a>.
-</p>
+<p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct1rOtqTtX1jDoO0tBlcO57P-8QxzFYFsseawvfZdZ7M_geQ/viewform?embedded=true" width="600" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
 
 <h2 id="schedule">Schedule</h2>
 
