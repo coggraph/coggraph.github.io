@@ -23,6 +23,7 @@ social: false  # includes social icons at the bottom of the page
 
 <p class="center"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct1rOtqTtX1jDoO0tBlcO57P-8QxzFYFsseawvfZdZ7M_geQ/viewform?embedded=true" width="600" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
 
+<hr/>
 <h2 id="schedule">Schedule</h2>
 
 <h3>Seminar #1: Visual Communication</h3>
