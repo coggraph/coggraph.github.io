@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 <p><strong>COGGRAPH</strong> is a new workshop at the interface between <strong>cognitive science 🧠</strong> and <strong>computer graphics 🫖</strong>. Building bridges between these scientific communities can help us ask and answer big questions about perception and depiction: questions about how we <strong>see, communicate, reason, and express ourselves</strong>. We believe the study of the mind can help computer graphics advance the goals of visual computing, while the tools and methods of graphics can help us better study the mind &mdash; and we want to grow a community of researchers who feel the same. (For more on our vision for COGGRAPH, read our workshop proposal <a href="/assets/pdf/COGGRAPH_2024_proposal.pdf">here</a>.)
 
-<p>We're doing things a little differently than usual. In 2024, COGGRAPH will take place as a series of four <strong>virtual online seminars</strong> &mdash; free &amp; open to the public &mdash; featuring interactive conversations with speakers from cognitive science, computer graphics, and the arts. Then, in late July, we will convene <strong>in-person</strong> for activities at the <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a> conference in Rotterdam. (In 2025, we'll plan to be at SIGGRAPH!)
+<p>We're doing things a little differently than usual. In 2024, COGGRAPH will take place as a series of four <strong>virtual online seminars</strong> &mdash; free &amp; open to the public &mdash; featuring interactive conversations with experts from cognitive science, computer graphics, and the arts. Then, in late July, we will convene <strong>in-person</strong> for activities at the <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a> conference in Rotterdam. (In 2025, we'll plan to be at SIGGRAPH!)
 
 <p>Sign up for updates below! You are also welcome to contact the COGGRAPH organizers with questions and comments by emailing <a href="https://cs.stanford.edu/~kach/">Kartik</a>.</p>
 
@@ -28,7 +28,7 @@ social: false  # includes social icons at the bottom of the page
 <h3>Seminar #1: Visual Communication</h3>
 <div>
     <p>
-        Date: <b>Wednesday, June 12th</b>. Time: <b>4:00pm Eastern Time</b>
+        Date: <b>Wednesday, June 12th</b>. Time: <b>4:00pm ET</b>
     </p>
 </div>
 
@@ -74,7 +74,7 @@ social: false  # includes social icons at the bottom of the page
 <h3>Seminar #2: Visual Perception</h3>
 <div>
     <p>
-        Date: <b>Monday, June 17th</b>. Time: <b>11:00am Eastern Time</b>
+        Date: <b>Monday, June 17th</b>. Time: <b>11:00am ET</b>
     </p>
 </div>
 
@@ -125,7 +125,7 @@ social: false  # includes social icons at the bottom of the page
 <h3>Seminar #3: Visual Reasoning</h3>
 <div>
     <p>
-        Date: <b>Wednesday, July 3rd</b>. Time: <b>4:00pm Eastern Time</b>
+        Date: <b>Wednesday, July 3rd</b>. Time: <b>4:00pm ET</b>
     </p>
 </div>
 
@@ -176,7 +176,7 @@ social: false  # includes social icons at the bottom of the page
 <h3>Seminar #4: Visual Expression</h3>
 <div>
     <p>
-        Date: <b>Tuesday, July 16th</b>. Time: <b>2:00pm Eastern Time</b>
+        Date: <b>Tuesday, July 16th</b>. Time: <b>2:00pm ET</b>
     </p>
 </div>
 
