@@ -103,7 +103,7 @@ social: false  # includes social icons at the bottom of the page
 
     <div class="speaker-entry">
         <img class="speaker-img" src="../assets/img/speakers/vivianpaulun.jpg">
-        <div>
+<div>
             <a href="https://www.mit.edu/~vpaulun/" style="position:relative; display:block">Vivian Paulun</a>
             <div>MIT</div>
         </div>
@@ -303,6 +303,7 @@ social: false  # includes social icons at the bottom of the page
     </div>
 </div>
 
+<p></p>
 
 <!-- COGGRAPH graphic -->
 <div class="center">
