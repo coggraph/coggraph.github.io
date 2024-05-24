@@ -19,18 +19,16 @@ social: false  # includes social icons at the bottom of the page
 
 <link rel="stylesheet" href="../custom.css">
 
-<!-- <div style="text-align: center">
-<p>
-<b><h2 style="color: #09AD94">Images to Symbols Workshop: CogSci 2022</h2></b>
-</p>
-</div> -->
-
 <div id="container-header">
-    <div style="text-align: center;"><h3>Building bridges between cognitive&nbsp;science&nbsp;🧠 and computer&nbsp;graphics&nbsp;🫖</h3>
+    <div style="text-align: center;"><h3>🧠 🤝 🫖</h3>
     </div>
 </div>
 
-<p>
+<p><em>"Art being a thing of the mind, it follows that any scientific study of art will be psychology." &mdash;Max J Friedländer</em></p>
+
+<p><em>"A work of art may be understood as a conductor from the artist's mind to the viewer's." &mdash;Sol LeWitt</em></p>
+
+<p>COGGRAPH is a new workshop at the interface between <strong>cognitive science</strong> and <strong>computer graphics</strong>. We believe that building bridges between these disciplines can help us ask and answer big questions about perception and depiction.
 
 <p>We will be using a "flipped" workshop format:
 <ul>
