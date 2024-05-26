@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 <p>Sign up for updates below! You are also welcome to contact the COGGRAPH organizers with questions and comments by emailing <a href="https://cs.stanford.edu/~kach/">Kartik</a>.</p>
 
-<p class="center"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct1rOtqTtX1jDoO0tBlcO57P-8QxzFYFsseawvfZdZ7M_geQ/viewform?embedded=true" width="600" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+<p class="signup-form"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct1rOtqTtX1jDoO0tBlcO57P-8QxzFYFsseawvfZdZ7M_geQ/viewform?embedded=true" width="600" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
 
 <hr/>
 <h2 id="schedule">Schedule</h2>
@@ -223,49 +223,49 @@ social: false  # includes social icons at the bottom of the page
 </div>
 
 <br/> <br/>
-<h2>Organizers</h2>
-<div class="center" style="width: 100%; display: flex; flex-wrap: wrap;">
+<h2 style="margin-bottom: 20px">Organizers</h2>
+<div class="center" style="width: 100%; display: flex; flex-wrap: wrap; margin-buttom: 50px">
 
-    <div style="float: left; margin: 10px">
+    <div class="organizer">
         <a href="https://cs.stanford.edu/~kach/">
             <img src="../assets/img/organizers/KartikChandra.jpeg"
-                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
+                 class="speaker-img">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a href="https://cs.stanford.edu/~kach/"><b>Kartik Chandra</b></a></span>
         <span style="display: block; margin-top: -10px; text-align: center;"><p>MIT</p></span>
     </div>
 
-    <div style="float: left; margin: 10px">
+    <div class="organizer">
         <a href="https://persci.mit.edu/people/anne/">
             <img src="../assets/img/organizers/AnneHarrington.png"
-                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
+                 class="speaker-img">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a href="https://persci.mit.edu/people/anne/"><b>Anne Harrington</b></a></span>
         <span style="display: block; margin-top: -10px; text-align: center;"><p>MIT</p></span>
     </div>
 
-    <div style="float: left; margin: 10px">
+    <div class="organizer">
         <a href="https://spascience.github.io/">
             <img src="../assets/img/organizers/SeanAnderson.png"
-                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
+                 class="speaker-img">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a href="https://spascience.github.io/"><b>Sean P. Anderson</b></a></span>
         <span style="display: block; margin-top: -10px; text-align: center;"><p>Stanford University</p></span>
     </div>
 
-    <div style="float: left; margin: 10px">
+    <div class="organizer">
         <a href="https://collinskatie.github.io/">
             <img src="../assets/img/organizers/KatherineCollins.png"
-                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
+                 class="speaker-img">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a href="https://collinskatie.github.io/"><b>Katherine Collins</b></a></span>
         <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Cambridge</p></span>
     </div>
 
-    <div style="float: left; margin: 10px; margin-left: 0px;">
+    <div class="organizer">
         <a href="https://redwood.berkeley.edu/people/chris-kymn/">
             <img src="../assets/img/organizers/ChrisKymn.png"
-                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
+                 class="speaker-img">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a
                 href="https://redwood.berkeley.edu/people/chris-kymn/"><b>Christopher Kymn</b>
@@ -273,29 +273,29 @@ social: false  # includes social icons at the bottom of the page
         <span style="display: block; margin-top: -10px; text-align: center;"><p>UC Berkeley</p></span>
     </div>
 
-    <div style="float: left; margin: 10px">
+    <div class="organizer">
         <a href="https://kushinm.github.io/">
             <img src="../assets/img/organizers/KushinMukherjee.jpeg"
-                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
+                 class="speaker-img">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a href="https://kushinm.github.io/"><b>Kushin Mukherjee</b></a></span>
         <span style="display: block; margin-top: -10px; text-align: center;"><p>UW Madison</p></span>
     </div>
 
-    <div style="float: left; margin: 10px">
+    <div class="organizer">
         <a href="https://arnavverma.com/">
             <img src="../assets/img/organizers/ArnavVerma.jpeg"
-                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
+                 class="speaker-img">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a
                 href="https://arnavverma.com/"><b>Arnav Verma</b></a></span>
         <span style="display: block; margin-top: -10px; text-align: center;"><p>Stanford University</p></span>
     </div>
 
-    <div style="float: left; margin: 10px">
+    <div class="organizer">
         <a href="https://cogtoolslab.github.io/people.html">
             <img src="../assets/img/organizers/JudithFan.jpeg"
-                 style="border: 2px solid gray; width: 100px; height: 100px; background-size: cover; border-radius: 50%;">
+                 class="speaker-img">
         </a>
         <span style="display: block; padding: 5%; text-align: center;"><a
                 href="https://cogtoolslab.github.io/people.html"><b>Judith Fan</b></a></span>
@@ -306,7 +306,7 @@ social: false  # includes social icons at the bottom of the page
 <p></p>
 
 <!-- COGGRAPH graphic -->
-<div class="center">
+<div class="center-logo" >
     <svg
             class="hourglass top"
             width="13.2cm"
