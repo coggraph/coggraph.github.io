@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Seminar #2: Visual Perception
 DTSTART;TZID=America/New_York:20240617T110000
 DTEND;TZID=America/New_York:20240617T120000
-DESCRIPTION:Please join online on Zoom using the following link: [Insert Zoom Link Here]\nFor more details about COGGRAPH visit https://coggraph.github.io/
+DESCRIPTION:Please join online on Zoom.\nFor more details about COGGRAPH visit https://coggraph.github.io/
 LOCATION:Online - Zoom
 STATUS:CONFIRMED
 SEQUENCE:0
