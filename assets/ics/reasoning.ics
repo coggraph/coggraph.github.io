@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Seminar #3: Visual Reasoning
+DTSTART;TZID=America/New_York:20240703T160000
+DTEND;TZID=America/New_York:20240703T170000
+DESCRIPTION:Please join online on Zoom using the following link: [Insert Zoom Link Here]\nFor more details about COGGRAPH visit https://coggraph.github.io/
+LOCATION:Online - Zoom
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:Reminder - Seminar #3
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
