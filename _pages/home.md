@@ -154,7 +154,7 @@ social: false  # includes social icons at the bottom of the page
         <img class="speaker-img" src="../assets/img/speakers/kelseyallen.jpg">
         <div>
             <a href="https://k-r-allen.github.io/" style="position:relative; display:block">Kelsey Allen</a>
-            <div>Google <br> DeepMind&nbsp;🧠</div>
+            <div>University of <br> British Columbia&nbsp;🧠</div>
         </div>
     </div>
 
@@ -163,7 +163,7 @@ social: false  # includes social icons at the bottom of the page
         <div>
             <a href="http://www.gilbertbernstein.com/" style="position:relative; display:block">Gilbert Bernstein
                </a>
-            <div>UWashington, Seattle&nbsp;🫖</div>
+            <div>University of <br> Washington&nbsp;🫖</div>
         </div>
     </div>
 
