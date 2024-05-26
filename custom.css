@@ -9,6 +9,21 @@
     /* background-image: linear-gradient(315deg, aqua 0%, purple 74%);
 }*/
 
+.banner-img {
+  width: 100%;
+}
+
+.banner-img p {
+  font-size: small;
+}
+
+.quote em{
+  /* background: linear-gradient(90deg, rgba(252,185,0,1) 0%, rgba(6,147,227,1) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent; */
+}
+
 #navbar-toggle-btn {
   background-color: #FFD700;
 }
@@ -57,10 +72,6 @@ span {
 
 li {
   color: rgb(203, 213, 225);
-}
-
-h4 {
-
 }
 
 h3{

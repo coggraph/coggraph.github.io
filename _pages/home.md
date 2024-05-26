@@ -11,9 +11,16 @@ social: false  # includes social icons at the bottom of the page
 
 <link rel="stylesheet" href="../custom.css">
 
-<p><em>"Art being a thing of the mind, it follows that any scientific study of art will be psychology." &mdash;Max J Friedländer</em></p>
+<div>
+<img class="banner-img" src="assets/img/banner/mccloud.png">
+    <p>Image excerpted from Understanding Comics by Scott McCloud (1993)</p>
+</div>
 
-<p><em>"A work of art may be understood as a conductor from the artist's mind to the viewer's." &mdash;Sol LeWitt</em></p>
+<p class="quote">
+<em>"Art being a thing of the mind, it follows that any scientific study of art will be psychology." &mdash;Max J Friedländer</em>
+</p>
+
+<p class="quote"><em>"A work of art may be understood as a conductor from the artist's mind to the viewer's." &mdash;Sol LeWitt</em></p>
 
 <p><strong>COGGRAPH</strong> is a new workshop at the interface between <strong>cognitive science 🧠</strong> and <strong>computer graphics 🫖</strong>. Building bridges between these scientific communities can help us ask and answer big questions about perception and depiction: questions about how we <strong>see, communicate, reason, and express ourselves</strong>. We believe the study of the mind can help computer graphics advance the goals of visual computing, while the tools and methods of graphics can help us better study the mind &mdash; and we want to grow a community of researchers who feel the same. (For more on our vision for COGGRAPH, read our workshop proposal <a href="/assets/pdf/COGGRAPH_2024_proposal.pdf">here</a>.)
 
