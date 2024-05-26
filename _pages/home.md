@@ -42,7 +42,7 @@ social: false  # includes social icons at the bottom of the page
             <a href="https://www.gabrielgreenberg.com/" style="position:relative; display:block">
                 Gabriel Greenberg
             </a>
-            <div>UCLA</div>
+            <div>UCLA&nbsp;🧠</div>
         </div>
     </div>
 
@@ -52,23 +52,23 @@ social: false  # includes social icons at the bottom of the page
             <a href="https://graphics.stanford.edu/~maneesh/" style="position:relative; display:block">
                 Maneesh Agrawala
             </a>
-            <div>Stanford University</div>
+            <div>Stanford University&nbsp;🫖</div>
         </div>
     </div>
 
     <div class="speaker-entry">
         <img src="../assets/img/speakers/CindyXiong.jpeg" class="speaker-img">
         <div>
-            <a href="https://cyxiong.com/" style="position:relative; display:block"> Cindy Xiong</a>
-            <div>Georgia Tech</div>
+            <a href="https://cyxiong.com/" style="position:relative; display:block">Cindy Xiong</a>
+            <div>Georgia Tech&nbsp;🧠</div>
         </div>
     </div>
 
     <div class="speaker-entry">
         <img src="../assets/img/speakers/ZoyaBylinskii.jpeg" class="speaker-img">
         <div>
-            <a href="http://zoyathinks.com/" style="position:relative; display:block"> Zoya Bylinskii</a>
-            <div>Adobe</div>
+            <a href="http://zoyathinks.com/" style="position:relative; display:block">Zoya Bylinskii</a>
+            <div>Adobe&nbsp;🫖</div>
         </div>
     </div>
 </div>
@@ -87,7 +87,7 @@ social: false  # includes social icons at the bottom of the page
         <div>
             <a href="http://cncl.yale.edu/" style="position:relative; display:block">Ilker Yildirim
                </a>
-            <div>Yale University</div>
+            <div>Yale University&nbsp;🧠</div>
         </div>
     </div>
 
@@ -95,7 +95,7 @@ social: false  # includes social icons at the bottom of the page
         <img class="speaker-img" src="../assets/img/speakers/wenzeljakob.jpg">
         <div>
             <a href="https://rgl.epfl.ch/people/wjakob" style="position:relative; display:block">Wenzel Jakob</a>
-            <div>EPFL</div>
+            <div>EPFL&nbsp;🫖</div>
         </div>
     </div>
 
@@ -103,7 +103,7 @@ social: false  # includes social icons at the bottom of the page
         <img class="speaker-img" src="../assets/img/speakers/vivianpaulun.jpg">
 <div>
             <a href="https://www.mit.edu/~vpaulun/" style="position:relative; display:block">Vivian Paulun</a>
-            <div>MIT</div>
+            <div>MIT&nbsp;🧠</div>
         </div>
     </div>
 
@@ -112,7 +112,7 @@ social: false  # includes social icons at the bottom of the page
         <div>
             <a href="https://zferg.us/" style="position:relative; display:block">Zachary Ferguson
                </a>
-            <div>MIT</div>
+            <div>MIT&nbsp;🫖</div>
         </div>
     </div>
 
@@ -120,7 +120,7 @@ social: false  # includes social icons at the bottom of the page
         <img class="speaker-img" src="../assets/img/speakers/tzumao.jpg">
         <div>
             <a href="https://cseweb.ucsd.edu/~tzli/" style="position:relative; display:block">Tzu-Mao Li</a>
-            <div>UC San Diego</div>
+            <div>UC San Diego&nbsp;🫖</div>
         </div>
     </div>
 </div>
@@ -138,7 +138,7 @@ social: false  # includes social icons at the bottom of the page
         <img class="speaker-img" src="../assets/img/speakers/tomerullman.jpg">
         <div>
             <a href="http://www.tomerullman.org/" style="position:relative; display:block">Tomer Ullman</a>
-            <div>Harvard University</div>
+            <div>Harvard <br> University&nbsp;🧠</div>
         </div>
     </div>
 
@@ -146,7 +146,7 @@ social: false  # includes social icons at the bottom of the page
         <img class="speaker-img" src="../assets/img/speakers/danielritchie.jpg">
         <div>
             <a href="https://dritchie.github.io/" style="position:relative; display:block">Daniel Ritchie</a>
-            <div>Brown University</div>
+            <div>Brown <br> University&nbsp;🫖</div>
         </div>
     </div>
 
@@ -154,7 +154,7 @@ social: false  # includes social icons at the bottom of the page
         <img class="speaker-img" src="../assets/img/speakers/kelseyallen.jpg">
         <div>
             <a href="https://k-r-allen.github.io/" style="position:relative; display:block">Kelsey Allen</a>
-            <div>Google DeepMind</div>
+            <div>Google <br> DeepMind&nbsp;🧠</div>
         </div>
     </div>
 
@@ -163,7 +163,7 @@ social: false  # includes social icons at the bottom of the page
         <div>
             <a href="http://www.gilbertbernstein.com/" style="position:relative; display:block">Gilbert Bernstein
                </a>
-            <div>UWashington, Seattle</div>
+            <div>UWashington, Seattle&nbsp;🫖</div>
         </div>
     </div>
 
@@ -171,7 +171,7 @@ social: false  # includes social icons at the bottom of the page
         <img class="speaker-img" src="../assets/img/speakers/felixbinder.png">
         <div>
             <a href="https://ac.felixbinder.net/" style="position:relative; display:block">Felix Binder</a>
-            <div>UC San Diego</div>
+            <div>UC San Diego&nbsp;🧠</div>
         </div>
     </div>
 </div>
@@ -192,7 +192,7 @@ social: false  # includes social icons at the bottom of the page
         <div>
             <a href="https://www.dgp.toronto.edu/~hertzman/" style="position:relative; display:block">Aaron
                 Hertzmann</a>
-            <div>Adobe</div>
+            <div>Adobe&nbsp;🫖</div>
         </div>
     </div>
 
@@ -200,7 +200,7 @@ social: false  # includes social icons at the bottom of the page
         <img src="../assets/img/speakers/SarahSchwettmann.jpeg" class="speaker-img">
         <div>
             <a href="https://www.cogconfluence.com/" style="position:relative; display:block">Sarah Schwettmann</a>
-            <div>MIT</div>
+            <div>MIT&nbsp;🧠</div>
         </div>
     </div>
 
@@ -209,7 +209,7 @@ social: false  # includes social icons at the bottom of the page
         <div>
             <a href="https://yael-vinker.github.io/website/" style="position:relative; display:block"> Yael
                 Vinker</a>
-            <div>Tel-Aviv University</div>
+            <div>Tel-Aviv University&nbsp;🫖</div>
         </div>
     </div>
 
@@ -217,7 +217,7 @@ social: false  # includes social icons at the bottom of the page
         <img src="../assets/img/speakers/CassidyCurtis.jpeg" class="speaker-img">
         <div>
             <a href="https://otherthings.com/portfolio/" style="position:relative; display:block">Cassidy Curtis</a>
-            <div>Google</div>
+            <div>Google&nbsp;🫖</div>
         </div>
     </div>
 </div>
