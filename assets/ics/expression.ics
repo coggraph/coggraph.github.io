@@ -3,8 +3,8 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 SUMMARY:Seminar #4: Visual Expression
-DTSTART;TZID=America/New_York:20230716T140000
-DTEND;TZID=America/New_York:20230716T150000
+DTSTART;TZID=America/New_York:20240716T140000
+DTEND;TZID=America/New_York:20240716T150000
 DESCRIPTION:Please join online on Zoom using the following link: [Insert Zoom Link Here]\nFor more details about COGGRAPH visit https://coggraph.github.io/
 LOCATION:Online - Zoom
 STATUS:CONFIRMED
