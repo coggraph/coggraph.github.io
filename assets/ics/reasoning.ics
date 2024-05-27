@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:Seminar #3: Visual Reasoning
 DTSTART;TZID=America/New_York:20240703T160000
 DTEND;TZID=America/New_York:20240703T170000
-DESCRIPTION:Please join online on Zoom.\nFor more details about COGGRAPH visit https://coggraph.github.io/
-LOCATION:Online - Zoom
+DESCRIPTION:Please join online on Zoom https://uwmadison.zoom.us/meeting/register/tJUlduigqzIjG9VdNNY0zJC9dGcZsQ6hlCms .\nFor more details about COGGRAPH visit https://coggraph.github.io/
+LOCATION:https://uwmadison.zoom.us/meeting/register/tJUlduigqzIjG9VdNNY0zJC9dGcZsQ6hlCms
 STATUS:CONFIRMED
 SEQUENCE:0
 BEGIN:VALARM

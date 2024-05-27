@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:Seminar #4: Visual Expression
 DTSTART;TZID=America/New_York:20240716T140000
 DTEND;TZID=America/New_York:20240716T150000
-DESCRIPTION:Please join online on Zoom.\nFor more details about COGGRAPH visit https://coggraph.github.io/
-LOCATION:Online - Zoom
+DESCRIPTION:Please join online on Zoom https://uwmadison.zoom.us/meeting/register/tJEkdOqhrzMuHNMYL166vM-y7VILNh15G3gG .\nFor more details about COGGRAPH visit https://coggraph.github.io/
+LOCATION:https://uwmadison.zoom.us/meeting/register/tJEkdOqhrzMuHNMYL166vM-y7VILNh15G3gG
 STATUS:CONFIRMED
 SEQUENCE:0
 BEGIN:VALARM

@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:COGGRAPH Seminar #1: Visual Communication
 DTSTART;TZID=America/New_York:20240612T160000
 DTEND;TZID=America/New_York:20240612T170000
-DESCRIPTION:Please join online on Zoom.\nFor more details about COGGRAPH visit https://coggraph.github.io/
-LOCATION:Online - Zoom
+DESCRIPTION:Please join online on Zoom at https://uwmadison.zoom.us/meeting/register/tJIkce6hrjMpGdxVo7S13_YKmbL1woZLc8Hl .\nFor more details about COGGRAPH visit https://coggraph.github.io/
+LOCATION:https://uwmadison.zoom.us/meeting/register/tJIkce6hrjMpGdxVo7S13_YKmbL1woZLc8Hl
 STATUS:CONFIRMED
 SEQUENCE:0
 BEGIN:VALARM
