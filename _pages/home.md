@@ -39,6 +39,9 @@ social: false  # includes social icons at the bottom of the page
 <div>
     <p>
         Date: <b>Wednesday, June 12th</b>. Time: <b>4:00pm ET</b> <br>
+        <a href="https://uwmadison.zoom.us/meeting/register/tJIkce6hrjMpGdxVo7S13_YKmbL1woZLc8Hl">
+            Register for Zoom Link
+        </a> <br>
         <a href="/assets/ics/communication.ics" type="text/calendar">
             Download Calendar Event
         </a>
@@ -89,6 +92,9 @@ social: false  # includes social icons at the bottom of the page
 <div>
     <p>
         Date: <b>Monday, June 17th</b>. Time: <b>11:00am ET</b> <br>
+        <a href="https://uwmadison.zoom.us/meeting/register/tJEtfuutrDgoG9E2DEAsv6iw42tk2zg5YCQC">
+            Register for Zoom Link
+        </a> <br>
         <a href="/assets/ics/perception.ics" type="text/calendar">
             Download Calendar Event
         </a>
@@ -144,6 +150,9 @@ social: false  # includes social icons at the bottom of the page
 <div>
     <p>
         Date: <b>Wednesday, July 3rd</b>. Time: <b>4:00pm ET</b> <br>
+        <a href="https://uwmadison.zoom.us/meeting/register/tJUlduigqzIjG9VdNNY0zJC9dGcZsQ6hlCms">
+            Register for Zoom Link
+        </a> <br>
         <a href="/assets/ics/reasoning.ics" type="text/calendar">
             Download Calendar Event
         </a>
@@ -199,6 +208,9 @@ social: false  # includes social icons at the bottom of the page
 <div>
     <p>
         Date: <b>Tuesday, July 16th</b>. Time: <b>2:00pm ET</b> <br>
+        <a href="https://uwmadison.zoom.us/meeting/register/tJEkdOqhrzMuHNMYL166vM-y7VILNh15G3gG">
+            Register for Zoom Link
+        </a> <br>
         <a href="/assets/ics/expression.ics" type="text/calendar">
             Download Calendar Event
         </a>

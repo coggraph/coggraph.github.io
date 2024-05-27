@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Seminar #4: Visual Expression
+SUMMARY:COGGRAPH Seminar #4: Visual Expression
 DTSTART;TZID=America/New_York:20240716T140000
 DTEND;TZID=America/New_York:20240716T150000
-DESCRIPTION:Please join online on Zoom https://uwmadison.zoom.us/meeting/register/tJEkdOqhrzMuHNMYL166vM-y7VILNh15G3gG .\nFor more details about COGGRAPH visit https://coggraph.github.io/
-LOCATION:https://uwmadison.zoom.us/meeting/register/tJEkdOqhrzMuHNMYL166vM-y7VILNh15G3gG
+DESCRIPTION:Please join online on Zoom.\nFor more details about COGGRAPH visit https://coggraph.github.io/
+LOCATION:Online - Zoom
 STATUS:CONFIRMED
 SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-PT10M
-DESCRIPTION:Reminder - Seminar #4
+DESCRIPTION:Reminder - COGGRAPH Seminar #4
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
